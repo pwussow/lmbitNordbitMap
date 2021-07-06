@@ -20,6 +20,13 @@
             "width": 1920,
             "x": 0,
             "y": 1984
+        },
+        {
+            "fileName": "conf1.json",
+            "height": 800,
+            "width": 800,
+            "x": 2048,
+            "y": 128
         }
     ],
     "onlyShowAdjacentMaps": false,
