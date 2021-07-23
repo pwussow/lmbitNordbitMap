@@ -1,0 +1,48 @@
+{
+    "maps": [
+        {
+            "fileName": "island1.json",
+            "height": 960,
+            "width": 1920,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "fileName": "island2.json",
+            "height": 864,
+            "width": 1920,
+            "x": 0,
+            "y": 1024
+        },
+        {
+            "fileName": "island3.json",
+            "height": 960,
+            "width": 1920,
+            "x": 0,
+            "y": 1984
+        },
+        {
+            "fileName": "conf1.json",
+            "height": 800,
+            "width": 800,
+            "x": 1952,
+            "y": 192
+        },
+        {
+            "fileName": "conf2.json",
+            "height": 800,
+            "width": 800,
+            "x": -864,
+            "y": 160
+        },
+        {
+            "fileName": "conf3.json",
+            "height": 800,
+            "width": 800,
+            "x": -896,
+            "y": 2016
+        }
+    ],
+    "onlyShowAdjacentMaps": false,
+    "type": "world"
+}
