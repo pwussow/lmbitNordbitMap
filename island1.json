@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..lmbitNordbitMap-masterIsland2.json"
+                 "value":"..\/lmbitNordbitMap-master\/Island2.json"
                 }],
          "type":"tilelayer",
          "visible":true,
