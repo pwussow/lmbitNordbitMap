@@ -2195,6 +2195,7 @@
          "imagewidth":125,
          "margin":0,
          "name":"Logo_Fabula_Games",
+         "objectalignment":"topleft",
          "spacing":0,
          "tilecount":1,
          "tileheight":15,
@@ -2247,6 +2248,7 @@
          "imagewidth":79,
          "margin":0,
          "name":"Logo_Contechnet",
+         "objectalignment":"topleft",
          "spacing":0,
          "tilecount":1,
          "tileheight":9,
@@ -2278,6 +2280,29 @@
          "tiles":[
                 {
                  "id":0,
+                 "objectgroup":
+                    {
+                     "draworder":"index",
+                     "id":2,
+                     "name":"",
+                     "objects":[
+                            {
+                             "height":61,
+                             "id":1,
+                             "name":"",
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":64,
+                             "x":0,
+                             "y":2
+                            }],
+                     "opacity":1,
+                     "type":"objectgroup",
+                     "visible":true,
+                     "x":0,
+                     "y":0
+                    },
                  "properties":[
                         {
                          "name":"collides",
