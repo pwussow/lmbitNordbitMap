@@ -2341,7 +2341,7 @@
          "imagewidth":328,
          "margin":0,
          "name":"Beachclub",
-         "objectalignment":"topleft",
+         "objectalignment":"bottomleft",
          "spacing":0,
          "tilecount":1,
          "tileheight":300,
