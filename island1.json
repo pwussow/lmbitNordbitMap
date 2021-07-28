@@ -23,9 +23,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"start",
-                 "type":"string",
-                 "value":"Entry_Insel2"
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -61,7 +61,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/lmbitNordbitMap\/config1.json"
+                 "value":"..\/lmbitNordbitMap\/conf1.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -79,7 +79,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/lmbitNordbitMap\/config2.json"
+                 "value":"..\/lmbitNordbitMap\/conf2.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -2307,7 +2307,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
