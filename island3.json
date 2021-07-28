@@ -170,6 +170,12 @@
          "id":30,
          "name":"Leuchtturm lmbit",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitSceneURL",
+                 "type":"string",
+                 "value":"https:\/\/lmbit.de"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":60,

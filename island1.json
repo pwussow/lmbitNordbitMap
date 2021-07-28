@@ -21,12 +21,6 @@
          "id":35,
          "name":"start-Insel2",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"startLayer",
-                 "type":"bool",
-                 "value":true
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":60,
