@@ -1148,24 +1148,995 @@
          "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":321,
-         "source":"tf_beach_tileA1.tsx"
+         "image":"tf_beach_tileA1.png",
+         "imageheight":384,
+         "imagewidth":512,
+         "margin":0,
+         "name":"tf_beach_tileA1",
+         "spacing":0,
+         "tilecount":192,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "animation":[
+                        {
+                         "duration":100,
+                         "tileid":0
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":1
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":2
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":3
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":4
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":5
+                        }],
+                 "id":0
+                }, 
+                {
+                 "id":6,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":100,
+                         "tileid":8
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":9
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":10
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":11
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":12
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":13
+                        }],
+                 "id":8
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":100,
+                         "tileid":8
+                        }],
+                 "id":9
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":100,
+                         "tileid":48
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":49
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":50
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":51
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":52
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":53
+                        }],
+                 "id":48
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":100,
+                         "tileid":56
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":57
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":58
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":59
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":60
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":61
+                        }],
+                 "id":56
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":100,
+                         "tileid":96
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":97
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":98
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":99
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":100
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":101
+                        }],
+                 "id":96
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":100,
+                         "tileid":104
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":105
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":106
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":107
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":108
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":109
+                        }],
+                 "id":104
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":100,
+                         "tileid":144
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":145
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":146
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":147
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":148
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":149
+                        }],
+                 "id":144
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":100,
+                         "tileid":152
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":153
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":154
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":155
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":156
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":157
+                        }],
+                 "id":152
+                }],
+         "tilewidth":32,
+         "wangsets":[
+                {
+                 "colors":[
+                        {
+                         "color":"#ffaaff",
+                         "name":"",
+                         "probability":1,
+                         "tile":-1
+                        }],
+                 "name":"Water",
+                 "tile":6,
+                 "type":"edge",
+                 "wangtiles":[
+                        {
+                         "tileid":0,
+                         "wangid":[1, 0, 1, 0, 1, 0, 0, 0]
+                        }, 
+                        {
+                         "tileid":6,
+                         "wangid":[1, 0, 1, 0, 1, 0, 1, 0]
+                        }, 
+                        {
+                         "tileid":8,
+                         "wangid":[0, 0, 1, 0, 1, 0, 0, 0]
+                        }, 
+                        {
+                         "tileid":48,
+                         "wangid":[1, 0, 0, 0, 1, 0, 1, 0]
+                        }, 
+                        {
+                         "tileid":56,
+                         "wangid":[1, 0, 1, 0, 0, 0, 0, 0]
+                        }, 
+                        {
+                         "tileid":96,
+                         "wangid":[0, 0, 1, 0, 1, 0, 1, 0]
+                        }, 
+                        {
+                         "tileid":104,
+                         "wangid":[0, 0, 0, 0, 1, 0, 1, 0]
+                        }, 
+                        {
+                         "tileid":144,
+                         "wangid":[1, 0, 1, 0, 0, 0, 1, 0]
+                        }, 
+                        {
+                         "tileid":152,
+                         "wangid":[1, 0, 0, 0, 0, 0, 1, 0]
+                        }]
+                }]
         }, 
         {
+         "columns":16,
          "firstgid":513,
-         "source":"tf_beach_tileB.tsx"
+         "image":"tf_beach_tileB.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"tf_beach_tileB",
+         "properties":[
+                {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":true
+                }],
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "id":1,
+                 "probability":0.05
+                }, 
+                {
+                 "id":2,
+                 "probability":0.05
+                }, 
+                {
+                 "id":3,
+                 "probability":0.05
+                }, 
+                {
+                 "id":4,
+                 "probability":0.05
+                }, 
+                {
+                 "id":5,
+                 "probability":0.05
+                }, 
+                {
+                 "id":6,
+                 "probability":0.05
+                }, 
+                {
+                 "id":7,
+                 "probability":0.75
+                }, 
+                {
+                 "id":16,
+                 "probability":0.005
+                }, 
+                {
+                 "id":17,
+                 "probability":0.005
+                }, 
+                {
+                 "id":18,
+                 "probability":0.005
+                }, 
+                {
+                 "id":19,
+                 "probability":0.005
+                }, 
+                {
+                 "id":20,
+                 "probability":0.005
+                }, 
+                {
+                 "id":21,
+                 "probability":0.005
+                }, 
+                {
+                 "id":22,
+                 "probability":0.005
+                }, 
+                {
+                 "id":23,
+                 "probability":0.005
+                }, 
+                {
+                 "id":32,
+                 "probability":0.005
+                }, 
+                {
+                 "id":33,
+                 "probability":0.005
+                }, 
+                {
+                 "id":34,
+                 "probability":0.005
+                }],
+         "tilewidth":32,
+         "wangsets":[
+                {
+                 "colors":[
+                        {
+                         "color":"#e7e70a",
+                         "name":"",
+                         "probability":1,
+                         "tile":-1
+                        }],
+                 "name":"BeachSand",
+                 "tile":7,
+                 "type":"corner",
+                 "wangtiles":[
+                        {
+                         "tileid":1,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":2,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":3,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":4,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":5,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":6,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":7,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":16,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":17,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":18,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":19,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":20,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":21,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":22,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":23,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":32,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":33,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":34,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":152,
+                         "wangid":[0, 1, 0, 0, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":153,
+                         "wangid":[0, 0, 0, 0, 0, 0, 0, 1]
+                        }, 
+                        {
+                         "tileid":154,
+                         "wangid":[0, 1, 0, 0, 0, 0, 0, 0]
+                        }, 
+                        {
+                         "tileid":155,
+                         "wangid":[0, 1, 0, 1, 0, 0, 0, 1]
+                        }, 
+                        {
+                         "tileid":156,
+                         "wangid":[0, 1, 0, 0, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":157,
+                         "wangid":[0, 1, 0, 0, 0, 0, 0, 1]
+                        }, 
+                        {
+                         "tileid":158,
+                         "wangid":[0, 1, 0, 1, 0, 0, 0, 1]
+                        }, 
+                        {
+                         "tileid":168,
+                         "wangid":[0, 0, 0, 0, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":171,
+                         "wangid":[0, 1, 0, 1, 0, 0, 0, 0]
+                        }, 
+                        {
+                         "tileid":172,
+                         "wangid":[0, 0, 0, 0, 0, 0, 0, 1]
+                        }, 
+                        {
+                         "tileid":174,
+                         "wangid":[0, 1, 0, 0, 0, 0, 0, 0]
+                        }, 
+                        {
+                         "tileid":184,
+                         "wangid":[0, 0, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":185,
+                         "wangid":[0, 0, 0, 0, 0, 1, 0, 0]
+                        }, 
+                        {
+                         "tileid":186,
+                         "wangid":[0, 0, 0, 1, 0, 0, 0, 0]
+                        }, 
+                        {
+                         "tileid":187,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 0]
+                        }, 
+                        {
+                         "tileid":188,
+                         "wangid":[0, 0, 0, 0, 0, 1, 0, 0]
+                        }, 
+                        {
+                         "tileid":190,
+                         "wangid":[0, 0, 0, 1, 0, 0, 0, 0]
+                        }, 
+                        {
+                         "tileid":204,
+                         "wangid":[0, 0, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":205,
+                         "wangid":[0, 0, 0, 1, 0, 1, 0, 0]
+                        }, 
+                        {
+                         "tileid":206,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 0]
+                        }]
+                }, 
+                {
+                 "colors":[
+                        {
+                         "color":"#ff0000",
+                         "name":"",
+                         "probability":1,
+                         "tile":-1
+                        }],
+                 "name":"WetSand",
+                 "tile":169,
+                 "type":"corner",
+                 "wangtiles":[
+                        {
+                         "tileid":152,
+                         "wangid":[0, 0, 0, 1, 0, 0, 0, 0]
+                        }, 
+                        {
+                         "tileid":153,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 0]
+                        }, 
+                        {
+                         "tileid":154,
+                         "wangid":[0, 0, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":155,
+                         "wangid":[0, 0, 0, 0, 0, 1, 0, 0]
+                        }, 
+                        {
+                         "tileid":156,
+                         "wangid":[0, 0, 0, 1, 0, 0, 0, 0]
+                        }, 
+                        {
+                         "tileid":157,
+                         "wangid":[0, 0, 0, 1, 0, 1, 0, 0]
+                        }, 
+                        {
+                         "tileid":158,
+                         "wangid":[0, 0, 0, 0, 0, 1, 0, 0]
+                        }, 
+                        {
+                         "tileid":168,
+                         "wangid":[0, 1, 0, 1, 0, 0, 0, 0]
+                        }, 
+                        {
+                         "tileid":169,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":171,
+                         "wangid":[0, 0, 0, 0, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":172,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 0]
+                        }, 
+                        {
+                         "tileid":174,
+                         "wangid":[0, 0, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":184,
+                         "wangid":[0, 1, 0, 0, 0, 0, 0, 0]
+                        }, 
+                        {
+                         "tileid":185,
+                         "wangid":[0, 1, 0, 1, 0, 0, 0, 1]
+                        }, 
+                        {
+                         "tileid":186,
+                         "wangid":[0, 1, 0, 0, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":187,
+                         "wangid":[0, 0, 0, 0, 0, 0, 0, 1]
+                        }, 
+                        {
+                         "tileid":188,
+                         "wangid":[0, 1, 0, 1, 0, 0, 0, 1]
+                        }, 
+                        {
+                         "tileid":190,
+                         "wangid":[0, 1, 0, 0, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":204,
+                         "wangid":[0, 1, 0, 0, 0, 0, 0, 0]
+                        }, 
+                        {
+                         "tileid":205,
+                         "wangid":[0, 1, 0, 0, 0, 0, 0, 1]
+                        }, 
+                        {
+                         "tileid":206,
+                         "wangid":[0, 0, 0, 0, 0, 0, 0, 1]
+                        }]
+                }]
         }, 
         {
+         "columns":32,
          "firstgid":769,
-         "source":"ZRPGBeach.tsx"
+         "image":"ZRPGBeach.png",
+         "imageheight":1024,
+         "imagewidth":1024,
+         "margin":0,
+         "name":"ZRPGBeach",
+         "spacing":0,
+         "tilecount":1024,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "id":225,
+                 "objectgroup":
+                    {
+                     "draworder":"index",
+                     "id":3,
+                     "name":"",
+                     "objects":[
+                            {
+                             "height":32,
+                             "id":4,
+                             "name":"",
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":27,
+                             "x":1,
+                             "y":0
+                            }, 
+                            {
+                             "ellipse":true,
+                             "height":0,
+                             "id":5,
+                             "name":"",
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":0,
+                             "x":18.5526,
+                             "y":9.86842
+                            }],
+                     "opacity":1,
+                     "type":"objectgroup",
+                     "visible":true,
+                     "x":0,
+                     "y":0
+                    }
+                }],
+         "tilewidth":32,
+         "wangsets":[
+                {
+                 "colors":[
+                        {
+                         "color":"#ffaa00",
+                         "name":"",
+                         "probability":1,
+                         "tile":-1
+                        }],
+                 "name":"Kies",
+                 "tile":641,
+                 "type":"corner",
+                 "wangtiles":[
+                        {
+                         "tileid":544,
+                         "wangid":[0, 1, 0, 0, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":545,
+                         "wangid":[0, 1, 0, 1, 0, 0, 0, 1]
+                        }, 
+                        {
+                         "tileid":576,
+                         "wangid":[0, 0, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":577,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 0]
+                        }, 
+                        {
+                         "tileid":608,
+                         "wangid":[0, 0, 0, 1, 0, 0, 0, 0]
+                        }, 
+                        {
+                         "tileid":609,
+                         "wangid":[0, 0, 0, 1, 0, 1, 0, 0]
+                        }, 
+                        {
+                         "tileid":610,
+                         "wangid":[0, 0, 0, 0, 0, 1, 0, 0]
+                        }, 
+                        {
+                         "tileid":640,
+                         "wangid":[0, 1, 0, 1, 0, 0, 0, 0]
+                        }, 
+                        {
+                         "tileid":641,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":642,
+                         "wangid":[0, 0, 0, 0, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":672,
+                         "wangid":[0, 1, 0, 0, 0, 0, 0, 0]
+                        }, 
+                        {
+                         "tileid":673,
+                         "wangid":[0, 1, 0, 0, 0, 0, 0, 1]
+                        }, 
+                        {
+                         "tileid":674,
+                         "wangid":[0, 0, 0, 0, 0, 0, 0, 1]
+                        }]
+                }]
         }, 
         {
+         "columns":32,
          "firstgid":1793,
-         "source":"ZRPGRocks2.tsx"
+         "image":"ZRPGRocks2.png",
+         "imageheight":1024,
+         "imagewidth":1024,
+         "margin":0,
+         "name":"ZRPGRocks2",
+         "spacing":0,
+         "tilecount":1024,
+         "tileheight":32,
+         "tilewidth":32,
+         "wangsets":[
+                {
+                 "colors":[
+                        {
+                         "color":"#ff557f",
+                         "name":"",
+                         "probability":1,
+                         "tile":-1
+                        }],
+                 "name":"GrasDark",
+                 "tile":905,
+                 "type":"corner",
+                 "wangtiles":[
+                        {
+                         "tileid":886,
+                         "wangid":[0, 0, 0, 1, 0, 0, 0, 0]
+                        }, 
+                        {
+                         "tileid":887,
+                         "wangid":[0, 0, 0, 0, 0, 1, 0, 0]
+                        }, 
+                        {
+                         "tileid":904,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":905,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":917,
+                         "wangid":[0, 0, 0, 1, 0, 0, 0, 0]
+                        }, 
+                        {
+                         "tileid":918,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 0]
+                        }, 
+                        {
+                         "tileid":919,
+                         "wangid":[0, 0, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":920,
+                         "wangid":[0, 0, 0, 0, 0, 1, 0, 0]
+                        }, 
+                        {
+                         "tileid":936,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":937,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":949,
+                         "wangid":[0, 1, 0, 0, 0, 0, 0, 0]
+                        }, 
+                        {
+                         "tileid":950,
+                         "wangid":[0, 1, 0, 1, 0, 0, 0, 1]
+                        }, 
+                        {
+                         "tileid":951,
+                         "wangid":[0, 1, 0, 0, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":952,
+                         "wangid":[0, 0, 0, 0, 0, 0, 0, 1]
+                        }, 
+                        {
+                         "tileid":982,
+                         "wangid":[0, 1, 0, 0, 0, 0, 0, 0]
+                        }, 
+                        {
+                         "tileid":983,
+                         "wangid":[0, 0, 0, 0, 0, 0, 0, 1]
+                        }]
+                }, 
+                {
+                 "colors":[
+                        {
+                         "color":"#a7fbff",
+                         "name":"",
+                         "probability":1,
+                         "tile":-1
+                        }],
+                 "name":"GrasLight",
+                 "tile":841,
+                 "type":"corner",
+                 "wangtiles":[
+                        {
+                         "tileid":619,
+                         "wangid":[0, 0, 0, 1, 0, 0, 0, 0]
+                        }, 
+                        {
+                         "tileid":620,
+                         "wangid":[0, 0, 0, 1, 0, 1, 0, 0]
+                        }, 
+                        {
+                         "tileid":621,
+                         "wangid":[0, 0, 0, 0, 0, 1, 0, 0]
+                        }, 
+                        {
+                         "tileid":650,
+                         "wangid":[0, 0, 0, 1, 0, 0, 0, 0]
+                        }, 
+                        {
+                         "tileid":651,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 0]
+                        }, 
+                        {
+                         "tileid":653,
+                         "wangid":[0, 0, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":654,
+                         "wangid":[0, 0, 0, 0, 0, 1, 0, 0]
+                        }, 
+                        {
+                         "tileid":682,
+                         "wangid":[0, 1, 0, 1, 0, 0, 0, 0]
+                        }, 
+                        {
+                         "tileid":686,
+                         "wangid":[0, 0, 0, 0, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":714,
+                         "wangid":[0, 1, 0, 0, 0, 0, 0, 0]
+                        }, 
+                        {
+                         "tileid":715,
+                         "wangid":[0, 1, 0, 1, 0, 0, 0, 1]
+                        }, 
+                        {
+                         "tileid":717,
+                         "wangid":[0, 1, 0, 0, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":718,
+                         "wangid":[0, 0, 0, 0, 0, 0, 0, 1]
+                        }, 
+                        {
+                         "tileid":747,
+                         "wangid":[0, 1, 0, 0, 0, 0, 0, 0]
+                        }, 
+                        {
+                         "tileid":748,
+                         "wangid":[0, 1, 0, 0, 0, 0, 0, 1]
+                        }, 
+                        {
+                         "tileid":749,
+                         "wangid":[0, 0, 0, 0, 0, 0, 0, 1]
+                        }, 
+                        {
+                         "tileid":840,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":841,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":872,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":873,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":879,
+                         "wangid":[0, 0, 0, 1, 0, 0, 0, 0]
+                        }, 
+                        {
+                         "tileid":880,
+                         "wangid":[0, 0, 0, 0, 0, 1, 0, 0]
+                        }, 
+                        {
+                         "tileid":911,
+                         "wangid":[0, 1, 0, 0, 0, 0, 0, 0]
+                        }, 
+                        {
+                         "tileid":912,
+                         "wangid":[0, 0, 0, 0, 0, 0, 0, 1]
+                        }]
+                }]
         }, 
         {
+         "columns":32,
          "firstgid":2817,
-         "source":"ZRPGtrees.tsx"
+         "image":"ZRPGtrees.png",
+         "imageheight":1024,
+         "imagewidth":1024,
+         "margin":0,
+         "name":"ZRPGtrees",
+         "spacing":0,
+         "tilecount":1024,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":2,
@@ -1361,48 +2332,316 @@
          "transparentcolor":"#ffffff"
         }, 
         {
+         "columns":4,
          "firstgid":3954,
-         "source":"Sonnenschirm_128.tsx"
+         "image":"Tilepictures\/Elemente\/Sonnenschirm\/Sonnenschirm_128.png",
+         "imageheight":128,
+         "imagewidth":128,
+         "margin":0,
+         "name":"Sonnenschirm_128",
+         "properties":[
+                {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":true
+                }],
+         "spacing":0,
+         "tilecount":16,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ffffff"
         }, 
         {
+         "columns":2,
          "firstgid":3970,
-         "source":"Leuchtturm2Fixed.tsx"
+         "image":"Tilepictures\/Leuchtturm\/Leuchtturm2Fixed.png",
+         "imageheight":128,
+         "imagewidth":64,
+         "margin":0,
+         "name":"Leuchtturm2Fixed",
+         "spacing":0,
+         "tilecount":8,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ffffff"
         }, 
         {
+         "columns":1,
          "firstgid":3978,
-         "source":"Logo_macmon.tsx"
+         "image":"Tilepictures\/Logos\/Logo_macmon.png",
+         "imageheight":12,
+         "imagewidth":69,
+         "margin":0,
+         "name":"Logo_macmon",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":12,
+         "tilewidth":69,
+         "transparentcolor":"#ffffff"
         }, 
         {
+         "columns":1,
          "firstgid":3979,
-         "source":"Logo_Fabula_Games.tsx"
+         "image":"Tilepictures\/Elemente\/Logos\/Logo_Fabula_Games.png",
+         "imageheight":15,
+         "imagewidth":125,
+         "margin":0,
+         "name":"Logo_Fabula_Games",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":15,
+         "tilewidth":125,
+         "transparentcolor":"#ffffff"
         }, 
         {
+         "columns":1,
          "firstgid":3980,
-         "source":"Logo_Fujitsu.tsx"
+         "image":"Tilepictures\/Logos\/Logo_Fujitsu.png",
+         "imageheight":28,
+         "imagewidth":57,
+         "margin":0,
+         "name":"Logo_Fujitsu",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":28,
+         "tileoffset":
+            {
+             "x":6,
+             "y":0
+            },
+         "tilewidth":57,
+         "transparentcolor":"#ffffff"
         }, 
         {
+         "columns":1,
          "firstgid":3981,
-         "source":"Logo_Logpoint.tsx"
+         "image":"Tilepictures\/Logos\/Logo_Logpoint.png",
+         "imageheight":13,
+         "imagewidth":81,
+         "margin":0,
+         "name":"Logo_Logpoint",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":13,
+         "tileoffset":
+            {
+             "x":-11,
+             "y":0
+            },
+         "tilewidth":81,
+         "transparentcolor":"#ffffff"
         }, 
         {
+         "columns":1,
          "firstgid":3982,
-         "source":"Logo_Contechnet.tsx"
+         "image":"Tilepictures\/Logos\/Logo_Contechnet.png",
+         "imageheight":9,
+         "imagewidth":79,
+         "margin":0,
+         "name":"Logo_Contechnet",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":9,
+         "tileoffset":
+            {
+             "x":-9,
+             "y":0
+            },
+         "tilewidth":79,
+         "transparentcolor":"#ffffff"
         }, 
         {
+         "columns":1,
          "firstgid":3983,
-         "source":"Grasb\u00fcschel_64.tsx"
+         "image":"Tilepictures\/Elemente\/Gras\/Grasb\u00fcschel_64.png",
+         "imageheight":64,
+         "imagewidth":64,
+         "margin":0,
+         "name":"Grasb\u00fcschel_64",
+         "properties":[
+                {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":true
+                }],
+         "spacing":0,
+         "tilecount":16,
+         "tileheight":64,
+         "tilewidth":64,
+         "transparentcolor":"#ffffff"
         }, 
         {
+         "columns":1,
          "firstgid":3999,
-         "source":"schatzkiste.tsx"
+         "image":"Tilepictures\/Elemente\/Schatzkiste\/schatzkiste.png",
+         "imageheight":45,
+         "imagewidth":47,
+         "margin":0,
+         "name":"schatzkiste",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":45,
+         "tilewidth":47,
+         "transparentcolor":"#ffffff"
         }, 
         {
+         "columns":1,
          "firstgid":4000,
-         "source":"Beachclub.tsx"
+         "image":"Tilepictures\/Beachclub.png",
+         "imageheight":300,
+         "imagewidth":328,
+         "margin":0,
+         "name":"Beachclub",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":300,
+         "tilewidth":328,
+         "transparentcolor":"#ffffff"
         }, 
         {
+         "columns":1,
          "firstgid":4001,
-         "source":"Flamingo_64.tsx"
+         "image":"Tilepictures\/Elemente\/Flamingo\/Flamingo_64.png",
+         "imageheight":88,
+         "imagewidth":64,
+         "margin":0,
+         "name":"Flamingo_64",
+         "properties":[
+                {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":true
+                }],
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":88,
+         "tilewidth":64,
+         "transparentcolor":"#ffffff"
+        }, 
+        {
+         "columns":2,
+         "firstgid":4002,
+         "image":"Tilepictures\/Begrenzungen\/Begrenzung_Hecke_gr\u00fcn.png",
+         "imageheight":96,
+         "imagewidth":64,
+         "margin":0,
+         "name":"Begrenzung_Hecke_gr\u00fcn",
+         "spacing":0,
+         "tilecount":6,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ffffff"
+        }, 
+        {
+         "columns":3,
+         "firstgid":4008,
+         "image":"Tilepictures\/Begrenzungen\/Begrenzung_Hecke_hell.png",
+         "imageheight":96,
+         "imagewidth":96,
+         "margin":0,
+         "name":"Begrenzung_Hecke_hell",
+         "spacing":0,
+         "tilecount":9,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ffffff"
+        }, 
+        {
+         "columns":14,
+         "firstgid":4017,
+         "image":"Tilepictures\/Begrenzungen\/begrenzung_Lichterkette_klein.png",
+         "imageheight":224,
+         "imagewidth":448,
+         "margin":0,
+         "name":"begrenzung_Lichterkette_klein",
+         "spacing":0,
+         "tilecount":98,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ffffff"
+        }, 
+        {
+         "columns":5,
+         "firstgid":4115,
+         "image":"Tilepictures\/Begrenzungen\/Begrenzung_Steinmauer.png",
+         "imageheight":192,
+         "imagewidth":160,
+         "margin":0,
+         "name":"Begrenzung_Steinmauer",
+         "spacing":0,
+         "tilecount":30,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ffffff"
+        }, 
+        {
+         "columns":9,
+         "firstgid":4145,
+         "grid":
+            {
+             "height":32,
+             "orientation":"isometric",
+             "width":32
+            },
+         "image":"Tilepictures\/Begrenzungen\/gr\u00fcne Hecke mit gr\u00fcnem Untergrund.png",
+         "imageheight":288,
+         "imagewidth":288,
+         "margin":0,
+         "name":"gr\u00fcne Hecke mit gr\u00fcnem Untergrund",
+         "spacing":0,
+         "tilecount":81,
+         "tileheight":32,
+         "tilewidth":32,
+         "transformations":
+            {
+             "hflip":false,
+             "preferuntransformed":false,
+             "rotate":true,
+             "vflip":false
+            },
+         "transparentcolor":"#ffffff"
+        }, 
+        {
+         "columns":2,
+         "firstgid":4226,
+         "image":"Tilepictures\/Elemente\/Logos\/logo_lmbit_64.png",
+         "imageheight":64,
+         "imagewidth":64,
+         "margin":0,
+         "name":"logo_lmbit_64",
+         "spacing":0,
+         "tilecount":4,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ffffff"
+        }, 
+        {
+         "columns":2,
+         "firstgid":4230,
+         "image":"Tilepictures\/Elemente\/Logos\/matrix42_logo_64.png",
+         "imageheight":64,
+         "imagewidth":64,
+         "margin":0,
+         "name":"matrix42_logo_64",
+         "spacing":0,
+         "tilecount":4,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ffffff"
+        }, 
+        {
+         "columns":2,
+         "firstgid":4234,
+         "image":"Tilepictures\/Elemente\/Logos\/sophos_logo_64.png",
+         "imageheight":64,
+         "imagewidth":64,
+         "margin":0,
+         "name":"sophos_logo_64",
+         "spacing":0,
+         "tilecount":4,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ffffff"
         }],
  "tilewidth":32,
  "type":"map",
