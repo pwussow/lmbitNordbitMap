@@ -47,7 +47,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/valerius-codius.github.io\/NordBit\/map.json#entry01"
+                 "value":"..\/lmbitNordbitMap\/island1.json"
                 }],
          "type":"tilelayer",
          "visible":true,

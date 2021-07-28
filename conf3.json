@@ -47,7 +47,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/valerius-codius.github.io\/NordBit\/map.json#entry01"
+                 "value":"..\/lmbitNordbitMap\/island3.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -122,7 +122,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":8,
+ "nextlayerid":9,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "properties":[
