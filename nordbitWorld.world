@@ -25,22 +25,22 @@
             "fileName": "conf1.json",
             "height": 800,
             "width": 800,
-            "x": 1952,
-            "y": 192
+            "x": 2048,
+            "y": 128
         },
-        {
+	{
             "fileName": "conf2.json",
             "height": 800,
             "width": 800,
-            "x": -864,
-            "y": 160
+            "x": 2048,
+            "y": 1028
         },
-        {
+	{
             "fileName": "conf3.json",
             "height": 800,
             "width": 800,
-            "x": -896,
-            "y": 2016
+            "x": 2048,
+            "y": 1928
         }
     ],
     "onlyShowAdjacentMaps": false,

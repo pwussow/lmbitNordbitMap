@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.5" tiledversion="1.5.0" name="tf_beach_tileB" tilewidth="32" tileheight="32" tilecount="256" columns="16">
+<tileset version="1.5" tiledversion="1.7.1" name="tf_beach_tileB" tilewidth="32" tileheight="32" tilecount="256" columns="16">
+ <properties>
+  <property name="collides" type="bool" value="true"/>
+ </properties>
  <image source="tf_beach_tileB.png" width="512" height="512"/>
  <tile id="1" probability="0.05"/>
  <tile id="2" probability="0.05"/>
