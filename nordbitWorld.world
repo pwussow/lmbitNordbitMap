@@ -9,10 +9,10 @@
         },
         {
             "fileName": "island2.json",
-            "height": 864,
+            "height": 832,
             "width": 1920,
             "x": 0,
-            "y": 1024
+            "y": 1056
         },
         {
             "fileName": "island3.json",
@@ -28,14 +28,14 @@
             "x": 2048,
             "y": 128
         },
-	{
+        {
             "fileName": "conf2.json",
             "height": 800,
             "width": 800,
             "x": 2048,
             "y": 1028
         },
-	{
+        {
             "fileName": "conf3.json",
             "height": 800,
             "width": 800,
