@@ -115,7 +115,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/lmbitNordbitMap\/conf1.json"
+                 "value":"..\/lmbitNordbitMap\/conf1.json#entry1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -133,7 +133,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/lmbitNordbitMap\/conf2.json"
+                 "value":"..\/lmbitNordbitMap\/conf2.json#entry1"
                 }],
          "type":"tilelayer",
          "visible":true,
