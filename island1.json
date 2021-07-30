@@ -327,7 +327,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/lmbit.de"
+                 "value":"https:\/\/events.lmbit.de\/"
                 }],
          "type":"tilelayer",
          "visible":false,
