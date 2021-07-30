@@ -325,7 +325,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneURL",
+                 "name":"exitSceneUrl",
                  "type":"string",
                  "value":"https:\/\/lmbit.de"
                 }],
@@ -359,6 +359,12 @@
          "id":27,
          "name":"Begrenzungen",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":60,
