@@ -45,9 +45,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"island1.json#entry2"
+                 "value":"https:\/\/www.nordbit.de\/foerdeblick\/  "
                 }],
          "type":"tilelayer",
          "visible":true,

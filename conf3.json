@@ -45,9 +45,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"island3.json#entry2"
+                 "value":"https:\/\/www.nordbit.de\/sprottenclub\/ "
                 }],
          "type":"tilelayer",
          "visible":true,

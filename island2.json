@@ -188,6 +188,12 @@
          "id":24,
          "name":"LeuchtturmBlackBerry",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.nordbit.de\/blackberry"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":60,
@@ -200,6 +206,12 @@
          "id":25,
          "name":"LeuchtturmFuturedat",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.nordbit.de\/futuredat"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":60,
@@ -212,6 +224,12 @@
          "id":26,
          "name":"LeuchtturmSeppMail",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.nordbit.de\/seppmail"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":60,
@@ -224,6 +242,12 @@
          "id":27,
          "name":"LeuchtturmLaptagon",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.nordbit.de\/labtagon"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":60,

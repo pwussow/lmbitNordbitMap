@@ -224,6 +224,12 @@
          "id":31,
          "name":"LeuchtturmM42",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.nordbit.de\/matrix42\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":60,
@@ -236,6 +242,12 @@
          "id":32,
          "name":"Leuchtturm Sophos",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.nordbit.de\/sophos\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":60,
