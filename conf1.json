@@ -30,7 +30,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":25,
          "x":0,
          "y":0
@@ -50,7 +50,7 @@
                  "value":"..\/lmbitNordbitMap\/island1.json#entry1"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":25,
          "x":0,
          "y":0
@@ -63,6 +63,17 @@
          "id":1,
          "name":"bottom",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"ObenWebsite",
+                 "type":"string",
+                 "value":"https:\/\/events.lmbit.de\/"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":25,
@@ -78,7 +89,7 @@
          "name":"gras",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":25,
          "x":0,
          "y":0
@@ -92,7 +103,7 @@
          "name":"websiteLayer",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":25,
          "x":0,
          "y":0
@@ -106,7 +117,7 @@
          "name":"objects",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":25,
          "x":0,
          "y":0
@@ -118,7 +129,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }],
