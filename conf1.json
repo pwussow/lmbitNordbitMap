@@ -70,9 +70,9 @@
                  "value":"https:\/\/www.nordbit.de\/ostseebrise\/"
                 }, 
                 {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"fullscreen"
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,

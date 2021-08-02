@@ -177,6 +177,22 @@
          "id":15,
          "name":"roads",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"audioLoop",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"audioVolume",
+                 "type":"float",
+                 "value":5
+                }, 
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"Beach2QuickSoundscom.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":60,
