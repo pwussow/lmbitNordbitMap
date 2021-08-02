@@ -79,7 +79,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/lmbitNordbitMap\/island2.json#entry1"
+                 "value":"island2.json#entry1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -97,7 +97,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/lmbitNordbitMap\/conf1.json#entry1"
+                 "value":"conf1.json#entry1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -115,7 +115,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/lmbitNordbitMap\/conf2.json#entry1"
+                 "value":"conf2.json#entry1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -141,22 +141,6 @@
          "id":2,
          "name":"islands",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"audioLoop",
-                 "type":"bool",
-                 "value":true
-                }, 
-                {
-                 "name":"audioVolume",
-                 "type":"float",
-                 "value":0.2
-                }, 
-                {
-                 "name":"playAudio",
-                 "type":"string",
-                 "value":"Beach2QuickSoundscom.mp3"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":60,

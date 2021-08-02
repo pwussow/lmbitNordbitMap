@@ -78,7 +78,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/lmbitNordbitMap\/island2.json#entry2"
+                 "value":"island2.json#entry2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -96,7 +96,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/lmbitNordbitMap\/conf3.json#enry1"
+                 "value":"conf3.json#enry1"
                 }],
          "type":"tilelayer",
          "visible":true,

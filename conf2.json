@@ -47,7 +47,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/lmbitNordbitMap\/island1.json#entry2"
+                 "value":"island1.json#entry2"
                 }],
          "type":"tilelayer",
          "visible":true,
