@@ -359,7 +359,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"tilesets_deviant_milkian_1.png",
+         "image":"lmbitNordbitMap\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1084,7 +1084,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"floortileset.png",
+         "image":"lmbitNordbitMap\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -1107,7 +1107,7 @@
         {
          "columns":16,
          "firstgid":321,
-         "image":"tf_beach_tileA1.png",
+         "image":"lmbitNordbitMap\/tf_beach_tileA1.png",
          "imageheight":384,
          "imagewidth":512,
          "margin":0,
@@ -1412,7 +1412,7 @@
         {
          "columns":16,
          "firstgid":513,
-         "image":"tf_beach_tileB.png",
+         "image":"lmbitNordbitMap\/tf_beach_tileB.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1767,7 +1767,7 @@
         {
          "columns":32,
          "firstgid":769,
-         "image":"ZRPGBeach.png",
+         "image":"lmbitNordbitMap\/ZRPGBeach.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -1884,7 +1884,7 @@
         {
          "columns":32,
          "firstgid":1793,
-         "image":"ZRPGRocks2.png",
+         "image":"lmbitNordbitMap\/ZRPGRocks2.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -2084,7 +2084,7 @@
         {
          "columns":32,
          "firstgid":2817,
-         "image":"ZRPGtrees.png",
+         "image":"lmbitNordbitMap\/ZRPGtrees.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -2103,7 +2103,7 @@
              "orientation":"isometric",
              "width":32
             },
-         "image":"Tilepictures\/Begrenzungen\/gr\u00fcne Hecke mit gr\u00fcnem Untergrund.png",
+         "image":"lmbitNordbitMap\/Tilepictures\/Begrenzungen\/gr\u00fcne Hecke mit gr\u00fcnem Untergrund.png",
          "imageheight":288,
          "imagewidth":288,
          "margin":0,
@@ -2124,7 +2124,7 @@
         {
          "columns":4,
          "firstgid":3922,
-         "image":"Tilepictures\/Elemente\/Sonnenschirm\/Sonnenschirm_128.png",
+         "image":"lmbitNordbitMap\/Tilepictures\/Elemente\/Sonnenschirm\/Sonnenschirm_128.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
@@ -2144,7 +2144,7 @@
         {
          "columns":2,
          "firstgid":3938,
-         "image":"Tilepictures\/Elemente\/Logos\/logo_lmbit_64.png",
+         "image":"lmbitNordbitMap\/Tilepictures\/Elemente\/Logos\/logo_lmbit_64.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -2158,7 +2158,7 @@
         {
          "columns":2,
          "firstgid":3942,
-         "image":"Tilepictures\/Elemente\/Logos\/matrix42_logo_64.png",
+         "image":"lmbitNordbitMap\/Tilepictures\/Elemente\/Logos\/matrix42_logo_64.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -2172,7 +2172,7 @@
         {
          "columns":2,
          "firstgid":3946,
-         "image":"Tilepictures\/Elemente\/Logos\/sophos_logo_64.png",
+         "image":"lmbitNordbitMap\/Tilepictures\/Elemente\/Logos\/sophos_logo_64.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -2186,7 +2186,7 @@
         {
          "columns":2,
          "firstgid":3950,
-         "image":"Tilepictures\/Leuchtturm\/Leuchtturm2Fixed.png",
+         "image":"lmbitNordbitMap\/Tilepictures\/Leuchtturm\/Leuchtturm2Fixed.png",
          "imageheight":128,
          "imagewidth":64,
          "margin":0,
@@ -2200,7 +2200,7 @@
         {
          "columns":1,
          "firstgid":3958,
-         "image":"Tilepictures\/Elemente\/Gras\/Grasb\u00fcschel_64.png",
+         "image":"lmbitNordbitMap\/Tilepictures\/Elemente\/Gras\/Grasb\u00fcschel_64.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -2220,7 +2220,7 @@
         {
          "columns":32,
          "firstgid":3959,
-         "image":"ZRPGtrees.png",
+         "image":"lmbitNordbitMap\/ZRPGtrees.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -2233,7 +2233,7 @@
         {
          "columns":32,
          "firstgid":4983,
-         "image":"ZRPGtrees.png",
+         "image":"lmbitNordbitMap\/ZRPGtrees.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -2246,7 +2246,7 @@
         {
          "columns":32,
          "firstgid":6007,
-         "image":"ZRPGRocks2.png",
+         "image":"lmbitNordbitMap\/ZRPGRocks2.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -2446,7 +2446,7 @@
         {
          "columns":32,
          "firstgid":7031,
-         "image":"ZRPGRocks2.png",
+         "image":"lmbitNordbitMap\/ZRPGRocks2.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -2646,7 +2646,7 @@
         {
          "columns":32,
          "firstgid":8055,
-         "image":"ZRPGRocks2.png",
+         "image":"lmbitNordbitMap\/ZRPGRocks2.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -2846,7 +2846,7 @@
         {
          "columns":16,
          "firstgid":9079,
-         "image":"tf_beach_tileB.png",
+         "image":"lmbitNordbitMap\/tf_beach_tileB.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -3201,7 +3201,7 @@
         {
          "columns":32,
          "firstgid":9335,
-         "image":"ZRPGBeach.png",
+         "image":"lmbitNordbitMap\/ZRPGBeach.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -3318,7 +3318,7 @@
         {
          "columns":32,
          "firstgid":10359,
-         "image":"ZRPGRocks2.png",
+         "image":"lmbitNordbitMap\/ZRPGRocks2.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -3518,7 +3518,7 @@
         {
          "columns":32,
          "firstgid":11383,
-         "image":"ZRPGtrees.png",
+         "image":"lmbitNordbitMap\/ZRPGtrees.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
