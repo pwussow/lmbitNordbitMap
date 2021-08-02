@@ -210,7 +210,7 @@
                 {
                  "name":"exitSceneURL",
                  "type":"string",
-                 "value":"https:\/\/lmbit.de"
+                 "value":"https:\/\/www.nordbit.de\/lmbit\/"
                 }],
          "type":"tilelayer",
          "visible":true,
