@@ -65,9 +65,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"ObenWebsite",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/events.lmbit.de\/"
+                 "value":"https:\/\/us02web.zoom.us\/j\/81514739332#success"
                 }, 
                 {
                  "name":"openWebsitePolicy",
