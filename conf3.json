@@ -45,7 +45,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"island3.json#entry2"
                 }],
@@ -67,7 +67,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.nordbit.de\/sprottenclub\/ "
+                 "value":"https:\/\/www.nordbit.de\/sprottenclub\/"
                 }, 
                 {
                  "name":"silent",
