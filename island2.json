@@ -4322,6 +4322,22 @@
                  "imagewidth":320
                 }],
          "tilewidth":450
+        }, 
+        {
+         "columns":0,
+         "firstgid":4560,
+         "grid":
+            {
+             "height":1,
+             "orientation":"orthogonal",
+             "width":1
+            },
+         "margin":0,
+         "name":"wegweiser_neu",
+         "spacing":0,
+         "tilecount":0,
+         "tileheight":0,
+         "tilewidth":0
         }],
  "tilewidth":32,
  "type":"map",
