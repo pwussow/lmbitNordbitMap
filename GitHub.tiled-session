@@ -356,22 +356,24 @@
             "scaleInDock": 1
         }
     },
+    "last.imagePath": "C:/Users/Patrick.wussow/Documents/GitHub/lmbitNordbitMap/Tilepictures/diverse Grafikelemente NEU",
     "openFiles": [
         "island1.json"
     ],
     "project": "",
     "recentFiles": [
+        "island3.json",
+        "island2.json",
+        "island1.json",
         "conf3.json",
         "conf2.json",
         "conf1.json",
-        "island1.json",
-        "island3.json",
-        "island2.json",
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json",
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json",
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf1.json",
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island3.json",
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json",
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json"
-    ]
+    ],
+    "tileset.embedInMap": true
 }
