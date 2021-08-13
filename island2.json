@@ -4423,6 +4423,7 @@
 >>>>>>> parent of cdc3afb (Added seppmail_test logo on island2)
                 }],
 <<<<<<< HEAD
+<<<<<<< HEAD
          "tilewidth":97
         }, 
         {
@@ -4457,6 +4458,9 @@
          "tileheight":0,
          "tilewidth":0
 >>>>>>> parent of 6779f0b (Added guideposts (test) on all islands)
+=======
+         "tilewidth":450
+>>>>>>> parent of 29508d8 (adjusted size of guidepost elements)
         }],
  "tilewidth":32,
  "type":"map",
