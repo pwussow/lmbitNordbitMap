@@ -1,0 +1,377 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "C:/Uti/NordBit/lmbitNordbitMap-master",
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA",
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Alle Dateien (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "conf1.json": {
+            "scale": 1.0735,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 384.257102934327,
+                "y": 400.55891942244995
+            }
+        },
+        "conf1.json#ZRPGBeach": {
+            "scaleInDock": 1
+        },
+        "conf1.json#ZRPGRocks2": {
+            "scaleInDock": 1
+        },
+        "conf1.json#ZRPGtrees": {
+            "scaleInDock": 1
+        },
+        "conf1.json#tf_beach_tileA1": {
+            "scaleInDock": 1
+        },
+        "conf1.json#tf_beach_tileB": {
+            "scaleInDock": 1
+        },
+        "conf2.json": {
+            "scale": 1.0735,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 384.257102934327,
+                "y": 400.55891942244995
+            }
+        },
+        "conf2.json#ZRPGBeach": {
+            "scaleInDock": 1
+        },
+        "conf2.json#ZRPGRocks2": {
+            "scaleInDock": 1
+        },
+        "conf2.json#ZRPGtrees": {
+            "scaleInDock": 1
+        },
+        "conf2.json#tf_beach_tileA1": {
+            "scaleInDock": 1
+        },
+        "conf2.json#tf_beach_tileB": {
+            "scaleInDock": 1
+        },
+        "conf3.json": {
+            "scale": 1.0735,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 384.257102934327,
+                "y": 272.47321844434094
+            }
+        },
+        "conf3.json#ZRPGBeach": {
+            "scaleInDock": 1
+        },
+        "conf3.json#ZRPGRocks2": {
+            "scaleInDock": 1
+        },
+        "conf3.json#ZRPGtrees": {
+            "scaleInDock": 1
+        },
+        "conf3.json#tf_beach_tileA1": {
+            "scaleInDock": 1
+        },
+        "conf3.json#tf_beach_tileB": {
+            "scaleInDock": 1
+        },
+        "island1.json": {
+            "scale": 0.4554397559735638,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 954.0229949210247,
+                "y": 476.4625774404197
+            }
+        },
+        "island1.json#Flamingo-Bar_Farbe geändert": {
+            "scaleInDock": 1
+        },
+        "island1.json#Flamingo-Bar_ohne Untergrund": {
+            "scaleInDock": 1
+        },
+        "island1.json#Flamingo_neu-64x64": {
+            "scaleInDock": 1
+        },
+        "island1.json#Grasbüschel_64": {
+            "scaleInDock": 1
+        },
+        "island1.json#Logo_Contechnet": {
+            "scaleInDock": 1
+        },
+        "island1.json#Logo_Fujitsu": {
+            "scaleInDock": 1
+        },
+        "island1.json#Logo_Logpoint": {
+            "scaleInDock": 1
+        },
+        "island1.json#Logo_macmon": {
+            "scaleInDock": 1
+        },
+        "island1.json#Ship1": {
+            "scaleInDock": 1
+        },
+        "island1.json#Ship2": {
+            "scaleInDock": 1
+        },
+        "island1.json#Ship3": {
+            "scaleInDock": 1
+        },
+        "island1.json#Sonnenschirm_128": {
+            "scaleInDock": 1
+        },
+        "island1.json#Sonnenschirm_128pixel_Contechnet": {
+            "scaleInDock": 1
+        },
+        "island1.json#Sonnenschirm_128pixel_FabulaGames": {
+            "scaleInDock": 1
+        },
+        "island1.json#Sonnenschirm_128pixel_Fujiutsu": {
+            "scaleInDock": 1
+        },
+        "island1.json#Sonnenschirm_128pixel_Logpoint": {
+            "scaleInDock": 1
+        },
+        "island1.json#Sonnenschirm_128pixel_Macmon": {
+            "scaleInDock": 1
+        },
+        "island1.json#Strandkorb-64": {
+            "scaleInDock": 1
+        },
+        "island1.json#ZRPGBeach": {
+            "scaleInDock": 1
+        },
+        "island1.json#ZRPGRocks2": {
+            "scaleInDock": 1
+        },
+        "island1.json#ZRPGtrees": {
+            "scaleInDock": 1
+        },
+        "island1.json#fabula_games_neu": {
+            "scaleInDock": 1
+        },
+        "island1.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "island1.json#grüne Hecke mit grünem Untergrund": {
+            "scaleInDock": 1
+        },
+        "island1.json#leuchtturm-neu2": {
+            "scaleInDock": 1
+        },
+        "island1.json#logo_lmbit_64": {
+            "scaleInDock": 1
+        },
+        "island1.json#matrix42_logo_64": {
+            "scaleInDock": 1
+        },
+        "island1.json#office_1": {
+            "scaleInDock": 1
+        },
+        "island1.json#schatzkiste": {
+            "scaleInDock": 1
+        },
+        "island1.json#sophos_logo_64": {
+            "scaleInDock": 1
+        },
+        "island1.json#tf_beach_tileA1": {
+            "scaleInDock": 1
+        },
+        "island1.json#tf_beach_tileB": {
+            "scaleInDock": 1
+        },
+        "island2.json": {
+            "scale": 0.5,
+            "selectedLayer": 13,
+            "viewCenter": {
+                "x": 639,
+                "y": 522
+            }
+        },
+        "island2.json#Aloa-Blumen": {
+            "scaleInDock": 1
+        },
+        "island2.json#Aloha Bar_1": {
+            "scaleInDock": 1
+        },
+        "island2.json#Aloha_Bar_Vorlagen": {
+            "scaleInDock": 1
+        },
+        "island2.json#Grasbüschel_64": {
+            "scaleInDock": 1
+        },
+        "island2.json#Logo_BlackBerry_Cylance": {
+            "scaleInDock": 1
+        },
+        "island2.json#Logo_Seppmail": {
+            "scaleInDock": 1
+        },
+        "island2.json#Sonnenschirm_128": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "island2.json#Sonnenschirm_128pixel_Blackberry": {
+            "scaleInDock": 1
+        },
+        "island2.json#Sonnenschirm_128pixel_Blackberry_NEUESlOGO_300": {
+            "scaleInDock": 1
+        },
+        "island2.json#Sonnenschirm_128pixel_Blackberry_NEUESlOGO_Vorlagen": {
+            "scaleInDock": 1
+        },
+        "island2.json#Sonnenschirm_128pixel_Futuredat": {
+            "scaleInDock": 1
+        },
+        "island2.json#Sonnenschirm_128pixel_Laptagon": {
+            "scaleInDock": 1
+        },
+        "island2.json#Sonnenschirm_128pixel_Seppmail": {
+            "scaleInDock": 1
+        },
+        "island2.json#Strandkorb-64": {
+            "scaleInDock": 1
+        },
+        "island2.json#Tresen-einzeln_64Pixel_96 Pixel": {
+            "scaleInDock": 1
+        },
+        "island2.json#ZRPGBeach": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "island2.json#ZRPGRocks2": {
+            "scaleInDock": 1
+        },
+        "island2.json#ZRPGtrees": {
+            "scaleInDock": 1
+        },
+        "island2.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "island2.json#futuredat_neu_Zeichenfläche 1": {
+            "scaleInDock": 1
+        },
+        "island2.json#grüne Hecke mit grünem Untergrund": {
+            "scaleInDock": 1
+        },
+        "island2.json#labtagon_neu": {
+            "scaleInDock": 1
+        },
+        "island2.json#leuchtturm-neu2": {
+            "scaleInDock": 1
+        },
+        "island2.json#logo_lmbit_64": {
+            "scaleInDock": 1
+        },
+        "island2.json#matrix42_logo_64": {
+            "scaleInDock": 1
+        },
+        "island2.json#office_1": {
+            "scaleInDock": 1
+        },
+        "island2.json#seppmail_schriftzug": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "island2.json#sophos_logo_64": {
+            "scaleInDock": 1
+        },
+        "island2.json#tf_beach_tileA1": {
+            "scaleInDock": 1
+        },
+        "island2.json#tf_beach_tileB": {
+            "scaleInDock": 1
+        },
+        "island2.json#wegweiser_neu": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "island3.json": {
+            "scale": 0.3510869565217391,
+            "selectedLayer": 26,
+            "viewCenter": {
+                "x": 944.2105263157895,
+                "y": 498.45201238390086
+            }
+        },
+        "island3.json#Grasbüschel_64": {
+            "scaleInDock": 1
+        },
+        "island3.json#Leuchtturm2Fixed": {
+            "scaleInDock": 1
+        },
+        "island3.json#Sonnenschirm_128": {
+            "scaleInDock": 1
+        },
+        "island3.json#Sonnenschirm_128pixel_Matrix42": {
+            "scaleInDock": 1
+        },
+        "island3.json#Sonnenschirm_128pixel_Sophos": {
+            "scaleInDock": 1
+        },
+        "island3.json#Sonnenschirm_128pixel_lmbit": {
+            "scaleInDock": 1
+        },
+        "island3.json#Strandkorb-64": {
+            "scaleInDock": 1
+        },
+        "island3.json#ZRPGBeach": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "island3.json#ZRPGRocks2": {
+            "scaleInDock": 1
+        },
+        "island3.json#ZRPGtrees": {
+            "scaleInDock": 1
+        },
+        "island3.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "island3.json#grüne Hecke mit grünem Untergrund": {
+            "scaleInDock": 1
+        },
+        "island3.json#logo_lmbit_64": {
+            "scaleInDock": 1
+        },
+        "island3.json#matrix42_logo_neu_": {
+            "scaleInDock": 1
+        },
+        "island3.json#office_1": {
+            "scaleInDock": 1
+        },
+        "island3.json#sophos_logo_64": {
+            "scaleInDock": 1
+        },
+        "island3.json#tf_beach_tileA1": {
+            "scaleInDock": 1
+        },
+        "island3.json#tf_beach_tileB": {
+            "scaleInDock": 1
+        },
+        "island3.json#wegweise_neu": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        }
+    },
+    "openFiles": [
+        "island1.json"
+    ],
+    "project": "",
+    "recentFiles": [
+        "conf3.json",
+        "conf2.json",
+        "conf1.json",
+        "island1.json",
+        "island3.json",
+        "island2.json",
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json",
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json",
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf1.json",
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island3.json",
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json",
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json"
+    ]
+}
