@@ -4388,6 +4388,7 @@
                  "imagewidth":450
 >>>>>>> parent of cdc3afb (Added seppmail_test logo on island2)
                 }],
+<<<<<<< HEAD
          "tilewidth":97
         }, 
         {
@@ -4407,6 +4408,9 @@
 >>>>>>> parent of c63d55c (Added seppmail floor_logo)
 =======
 >>>>>>> parent of c63d55c (Added seppmail floor_logo)
+=======
+         "tilewidth":450
+>>>>>>> parent of 29508d8 (adjusted size of guidepost elements)
         }],
  "tilewidth":32,
  "type":"map",
