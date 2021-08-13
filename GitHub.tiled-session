@@ -1228,10 +1228,10 @@
         },
         "island2.json": {
             "scale": 0.75,
-            "selectedLayer": 6,
+            "selectedLayer": 13,
             "viewCenter": {
-                "x": 766,
-                "y": 458.6666666666666
+                "x": 943.3333333333333,
+                "y": 390.6666666666667
             }
         },
         "island2.json#Aloa-Blumen": {
@@ -1268,6 +1268,9 @@
             "scaleInDock": 1
         },
         "island2.json#Logo_Seppmail": {
+            "scaleInDock": 1
+        },
+        "island2.json#Logo_Seppmail_als Untergrund-01": {
             "scaleInDock": 1
         },
         "island2.json#Sonnenschirm_128": {
@@ -1530,9 +1533,9 @@
     "project": "GitHub.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "island1.json",
         "island2.json",
         "island3.json",
-        "island1.json",
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json",
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json",
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf1.json",
