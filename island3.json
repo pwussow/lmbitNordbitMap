@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 { "compressionlevel":-1,
  "editorsettings":
     {
@@ -5106,6 +5107,8 @@
  "version":"1.6",
  "width":60
 =======
+=======
+>>>>>>> parent of 6779f0b (Added guideposts (test) on all islands)
 { "compressionlevel":-1,
  "editorsettings":
     {
@@ -10147,5 +10150,8 @@
  "type":"map",
  "version":"1.6",
  "width":60
+<<<<<<< HEAD
+>>>>>>> parent of 6779f0b (Added guideposts (test) on all islands)
+=======
 >>>>>>> parent of 6779f0b (Added guideposts (test) on all islands)
 }
