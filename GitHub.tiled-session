@@ -184,11 +184,11 @@
             "scaleInDock": 1
         },
         "island2.json": {
-            "scale": 0.5,
-            "selectedLayer": 13,
+            "scale": 0.33,
+            "selectedLayer": 14,
             "viewCenter": {
-                "x": 639,
-                "y": 522
+                "x": 934.8484848484848,
+                "y": 245.4545454545455
             }
         },
         "island2.json#Aloa-Blumen": {
@@ -207,6 +207,9 @@
             "scaleInDock": 1
         },
         "island2.json#Logo_Seppmail": {
+            "scaleInDock": 1
+        },
+        "island2.json#Logo_Seppmail_als Untergrund-01": {
             "scaleInDock": 1
         },
         "island2.json#Sonnenschirm_128": {
