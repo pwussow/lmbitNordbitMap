@@ -320,16 +320,25 @@
         },
         "island3.json": {
             "scale": 0.5,
-            "selectedLayer": 26,
+            "selectedLayer": 16,
             "viewCenter": {
-                "x": 887,
-                "y": 590
+                "x": 797,
+                "y": 518
             }
         },
         "island3.json#Grasbüschel_64": {
             "scaleInDock": 1
         },
         "island3.json#Leuchtturm2Fixed": {
+            "scaleInDock": 1
+        },
+        "island3.json#Logo_M42_als Untergrund": {
+            "scaleInDock": 1
+        },
+        "island3.json#Logo_Sophos_als Untergrund": {
+            "scaleInDock": 1
+        },
+        "island3.json#Logo_lmbit_als Untergrund": {
             "scaleInDock": 1
         },
         "island3.json#Sonnenschirm_128": {
