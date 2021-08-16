@@ -81,7 +81,7 @@
         },
         "island1.json": {
             "scale": 0.4554397559735638,
-            "selectedLayer": 0,
+            "selectedLayer": 16,
             "viewCenter": {
                 "x": 954.0229949210247,
                 "y": 476.4625774404197
@@ -102,10 +102,25 @@
         "island1.json#Logo_Contechnet": {
             "scaleInDock": 1
         },
+        "island1.json#Logo_Contechnet_als Untergrund": {
+            "scaleInDock": 1
+        },
+        "island1.json#Logo_Fabula_Games_als Untergrund": {
+            "scaleInDock": 1
+        },
         "island1.json#Logo_Fujitsu": {
             "scaleInDock": 1
         },
+        "island1.json#Logo_Fujitsu_als Untergrund": {
+            "scaleInDock": 1
+        },
         "island1.json#Logo_Logpoint": {
+            "scaleInDock": 1
+        },
+        "island1.json#Logo_Logpoint_als Untergrund": {
+            "scaleInDock": 1
+        },
+        "island1.json#Logo_Macmon_als Untergrund": {
             "scaleInDock": 1
         },
         "island1.json#Logo_macmon": {
@@ -184,11 +199,11 @@
             "scaleInDock": 1
         },
         "island2.json": {
-            "scale": 0.33,
+            "scale": 0.75,
             "selectedLayer": 14,
             "viewCenter": {
-                "x": 934.8484848484848,
-                "y": 245.4545454545455
+                "x": 528.6666666666665,
+                "y": 221.33333333333337
             }
         },
         "island2.json#Aloa-Blumen": {
@@ -206,7 +221,19 @@
         "island2.json#Logo_BlackBerry_Cylance": {
             "scaleInDock": 1
         },
+        "island2.json#Logo_Blackberry_als Untergrund": {
+            "scaleInDock": 1
+        },
+        "island2.json#Logo_Futuredat_als Untergrund": {
+            "scaleInDock": 1
+        },
+        "island2.json#Logo_Laptagon_als Untergrund1": {
+            "scaleInDock": 1
+        },
         "island2.json#Logo_Seppmail": {
+            "scaleInDock": 1
+        },
+        "island2.json#Logo_Seppmail_als Untergrund": {
             "scaleInDock": 1
         },
         "island2.json#Logo_Seppmail_als Untergrund-01": {
@@ -292,11 +319,11 @@
             "scaleInDock": 1
         },
         "island3.json": {
-            "scale": 0.3510869565217391,
+            "scale": 0.5,
             "selectedLayer": 26,
             "viewCenter": {
-                "x": 944.2105263157895,
-                "y": 498.45201238390086
+                "x": 887,
+                "y": 590
             }
         },
         "island3.json#Grasbüschel_64": {
@@ -359,7 +386,7 @@
             "scaleInDock": 1
         }
     },
-    "last.imagePath": "C:/Users/Patrick.wussow/Documents/GitHub/lmbitNordbitMap/Tilepictures/diverse Grafikelemente NEU",
+    "last.imagePath": "C:/Users/Patrick.wussow/Documents/GitHub/lmbitNordbitMap/Tilepictures/Elemente/Logos/Logos Untergrund",
     "openFiles": [
         "island1.json"
     ],
