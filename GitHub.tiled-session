@@ -83,7 +83,7 @@
             "scale": 0.75,
             "selectedLayer": 16,
             "viewCenter": {
-                "x": 626,
+                "x": 624.6666666666665,
                 "y": 550.6666666666665
             }
         },
@@ -203,7 +203,7 @@
             "selectedLayer": 21,
             "viewCenter": {
                 "x": 374.5,
-                "y": 332
+                "y": 331
             }
         },
         "island2.json#Aloa-Blumen": {
