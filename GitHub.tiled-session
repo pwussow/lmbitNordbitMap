@@ -8,7 +8,8 @@
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "conf1.json": {
             "scale": 1.0735,
@@ -209,9 +210,9 @@
         },
         "island2.json": {
             "scale": 1,
-            "selectedLayer": 23,
+            "selectedLayer": 29,
             "viewCenter": {
-                "x": 508.5,
+                "x": 460.5,
                 "y": 423
             }
         },
@@ -464,7 +465,7 @@
             "scaleInDock": 1
         }
     },
-    "last.imagePath": "C:/Users/Patrick.wussow/Documents/GitHub/lmbitNordbitMap/Tilepictures/Elemente/Wal",
+    "last.imagePath": "C:/Users/Patrick.wussow/Documents/GitHub/lmbitNordbitMap/Tilepictures/Elemente/Wegweiser",
     "openFiles": [
         "island1.json"
     ],
