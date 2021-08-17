@@ -61,7 +61,7 @@
             "selectedLayer": 0,
             "viewCenter": {
                 "x": 384.257102934327,
-                "y": 272.47321844434094
+                "y": 272.9389846297159
             }
         },
         "conf3.json#ZRPGBeach": {
@@ -80,11 +80,11 @@
             "scaleInDock": 1
         },
         "island1.json": {
-            "scale": 0.75,
-            "selectedLayer": 16,
+            "scale": 0.5,
+            "selectedLayer": 33,
             "viewCenter": {
-                "x": 624.6666666666665,
-                "y": 550.6666666666665
+                "x": 939,
+                "y": 544
             }
         },
         "island1.json#Flamingo-Bar_Farbe geändert": {
@@ -156,6 +156,9 @@
         "island1.json#Strandkorb-64": {
             "scaleInDock": 1
         },
+        "island1.json#Wegweiser_zu den_Streams": {
+            "scaleInDock": 1
+        },
         "island1.json#ZRPGBeach": {
             "scaleInDock": 1
         },
@@ -200,10 +203,10 @@
         },
         "island2.json": {
             "scale": 1,
-            "selectedLayer": 21,
+            "selectedLayer": 13,
             "viewCenter": {
-                "x": 374.5,
-                "y": 331
+                "x": 568.5,
+                "y": 424
             }
         },
         "island2.json#Aloa-Blumen": {
@@ -216,6 +219,9 @@
             "scaleInDock": 1
         },
         "island2.json#Grasbüschel_64": {
+            "scaleInDock": 1
+        },
+        "island2.json#Liege_mit_Hut": {
             "scaleInDock": 1
         },
         "island2.json#Logo_BlackBerry_Cylance": {
@@ -237,6 +243,12 @@
             "scaleInDock": 1
         },
         "island2.json#Logo_Seppmail_als Untergrund-01": {
+            "scaleInDock": 1
+        },
+        "island2.json#Orca": {
+            "scaleInDock": 1
+        },
+        "island2.json#Sessel_mit Decke_Kissen": {
             "scaleInDock": 1
         },
         "island2.json#Sessel_mit_Katze": {
@@ -270,6 +282,17 @@
         "island2.json#Strandkorb-64": {
             "scaleInDock": 1
         },
+        "island2.json#Surfbrett": {
+            "scaleInDock": 1
+        },
+        "island2.json#Tischchen_petrol_mit_Zubehör": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "island2.json#Tischchen_petrol_ohne_Zubehör": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "island2.json#Tischchen_rosa_mit_Zubehör": {
             "scaleInDock": 1,
             "scaleInEditor": 1
@@ -278,8 +301,23 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "island2.json#Tresen-einzeln": {
+            "scaleInDock": 1
+        },
         "island2.json#Tresen-einzeln_64Pixel_96 Pixel": {
             "scaleInDock": 1
+        },
+        "island2.json#Wegweiser_AlohaBar_Gruppenchat": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "island2.json#Wegweiser_weitere_Aussteller_Zeichenfläche 1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "island2.json#Wegweiser_zurück_zum SprottenClub": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "island2.json#ZRPGBeach": {
             "dynamicWrapping": false,
@@ -333,11 +371,11 @@
             "scaleInDock": 1
         },
         "island3.json": {
-            "scale": 0.5,
-            "selectedLayer": 16,
+            "scale": 0.75,
+            "selectedLayer": 29,
             "viewCenter": {
-                "x": 797,
-                "y": 518
+                "x": 825.9999999999999,
+                "y": 496
             }
         },
         "island3.json#Grasbüschel_64": {
@@ -369,6 +407,17 @@
         },
         "island3.json#Strandkorb-64": {
             "scaleInDock": 1
+        },
+        "island3.json#Surf_Segel": {
+            "scaleInDock": 1
+        },
+        "island3.json#Wegweiser_weitere_Aussteller_Zeichenfläche 1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "island3.json#Wegweiser_zum SprottenClub": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "island3.json#ZRPGBeach": {
             "dynamicWrapping": false,
@@ -409,7 +458,7 @@
             "scaleInDock": 1
         }
     },
-    "last.imagePath": "C:/Users/Patrick.wussow/Documents/GitHub/lmbitNordbitMap/Tilepictures/Elemente/Möbel",
+    "last.imagePath": "C:/Users/Patrick.wussow/Documents/GitHub/lmbitNordbitMap/Tilepictures/Elemente/Strandkorb",
     "openFiles": [
         "island1.json"
     ],
