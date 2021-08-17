@@ -12,11 +12,14 @@
         },
         "conf1.json": {
             "scale": 1.0735,
-            "selectedLayer": 0,
+            "selectedLayer": 5,
             "viewCenter": {
                 "x": 384.257102934327,
                 "y": 400.55891942244995
             }
+        },
+        "conf1.json#Stuhlkreis": {
+            "scaleInDock": 1
         },
         "conf1.json#ZRPGBeach": {
             "scaleInDock": 1
@@ -25,6 +28,9 @@
             "scaleInDock": 1
         },
         "conf1.json#ZRPGtrees": {
+            "scaleInDock": 1
+        },
+        "conf1.json#dolphin-1184234_64Pixel_breit": {
             "scaleInDock": 1
         },
         "conf1.json#tf_beach_tileA1": {
@@ -203,10 +209,10 @@
         },
         "island2.json": {
             "scale": 1,
-            "selectedLayer": 13,
+            "selectedLayer": 23,
             "viewCenter": {
-                "x": 568.5,
-                "y": 424
+                "x": 508.5,
+                "y": 423
             }
         },
         "island2.json#Aloa-Blumen": {
@@ -458,19 +464,19 @@
             "scaleInDock": 1
         }
     },
-    "last.imagePath": "C:/Users/Patrick.wussow/Documents/GitHub/lmbitNordbitMap/Tilepictures/Elemente/Strandkorb",
+    "last.imagePath": "C:/Users/Patrick.wussow/Documents/GitHub/lmbitNordbitMap/Tilepictures/Elemente/Stuhlkreis",
     "openFiles": [
         "island1.json"
     ],
     "project": "",
     "property.type": "bool",
     "recentFiles": [
+        "conf1.json",
         "island3.json",
         "island2.json",
         "island1.json",
         "conf3.json",
         "conf2.json",
-        "conf1.json",
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json",
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json",
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf1.json",
