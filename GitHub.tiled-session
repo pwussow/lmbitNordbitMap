@@ -240,6 +240,9 @@
         "conf3.json#Schildkröte_2": {
             "scaleInDock": 1
         },
+        "conf3.json#Schriftzug_Untergrund_Sprottenclub_Zeichenfläche 1": {
+            "scaleInDock": 1
+        },
         "conf3.json#Schwimmring": {
             "scaleInDock": 1
         },
@@ -418,11 +421,11 @@
             "scaleInDock": 1
         },
         "island2.json": {
-            "scale": 1,
-            "selectedLayer": 29,
+            "scale": 0.75,
+            "selectedLayer": 22,
             "viewCenter": {
-                "x": 943.5,
-                "y": 431.5
+                "x": 511.33333333333326,
+                "y": 428
             }
         },
         "island2.json#Aloa-Blumen": {
@@ -432,6 +435,9 @@
             "scaleInDock": 1
         },
         "island2.json#Aloha_Bar_Vorlagen": {
+            "scaleInDock": 1
+        },
+        "island2.json#Ananas": {
             "scaleInDock": 1
         },
         "island2.json#Grasbüschel_64": {
@@ -462,6 +468,9 @@
             "scaleInDock": 1
         },
         "island2.json#Orca": {
+            "scaleInDock": 1
+        },
+        "island2.json#Palme": {
             "scaleInDock": 1
         },
         "island2.json#Sessel_mit Decke_Kissen": {
@@ -522,6 +531,9 @@
             "scaleInEditor": 1
         },
         "island2.json#Tresen-einzeln_64Pixel_96 Pixel": {
+            "scaleInDock": 1
+        },
+        "island2.json#Wassermelone-01": {
             "scaleInDock": 1
         },
         "island2.json#Wegweiser_AlohaBar_Gruppenchat": {
@@ -591,8 +603,8 @@
             "scale": 0.75,
             "selectedLayer": 29,
             "viewCenter": {
-                "x": 943.3333333333333,
-                "y": 479.33333333333337
+                "x": 824.6666666666667,
+                "y": 494.6666666666666
             }
         },
         "island3.json#Grasbüschel_64": {
@@ -675,7 +687,7 @@
             "scaleInDock": 1
         }
     },
-    "last.imagePath": "C:/Users/Patrick.wussow/Documents/GitHub/lmbitNordbitMap/Tilepictures/Elemente/Palme",
+    "last.imagePath": "C:/Users/Patrick.wussow/Documents/GitHub/lmbitNordbitMap/Tilepictures/Elemente/00_Insel-Sammelsurium",
     "openFiles": [
         "island1.json",
         "island2.json",
