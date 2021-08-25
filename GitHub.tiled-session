@@ -662,7 +662,7 @@
         },
         "conf1.json": {
             "scale": 1.0735,
-            "selectedLayer": 8,
+            "selectedLayer": 6,
             "viewCenter": {
                 "x": 384.257102934327,
                 "y": 400.55891942244995
@@ -742,10 +742,10 @@
         },
         "conf2.json": {
             "scale": 1.0735,
-            "selectedLayer": 5,
+            "selectedLayer": 6,
             "viewCenter": {
                 "x": 383.3255705635771,
-                "y": 399.62738705170005
+                "y": 399.1616208663251
             }
         },
         "conf2.json#Baum_Vorlagen": {
@@ -839,6 +839,10 @@
         "conf2.json#Strandstuhl_mit Tisch_Gitarre": {
             "scaleInDock": 1
         },
+        "conf2.json#Tischtennisplatte": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "conf2.json#ZRPGBeach": {
             "scaleInDock": 1
         },
@@ -862,7 +866,7 @@
             "selectedLayer": 6,
             "viewCenter": {
                 "x": 456.5,
-                "y": 464
+                "y": 462
             }
         },
         "conf3.json#Ball-01": {
@@ -1082,8 +1086,8 @@
             "scale": 0.5,
             "selectedLayer": 23,
             "viewCenter": {
-                "x": 857,
-                "y": 470
+                "x": 943,
+                "y": 433
             }
         },
         "island2.json#Aloa-Blumen": {
@@ -1265,7 +1269,7 @@
             "selectedLayer": 29,
             "viewCenter": {
                 "x": 943.3333333333333,
-                "y": 480
+                "y": 479.33333333333337
             }
         },
         "island3.json#Grasbüschel_64": {
@@ -1348,7 +1352,7 @@
             "scaleInDock": 1
         }
     },
-    "last.imagePath": "C:/Users/Patrick.wussow/Documents/GitHub/lmbitNordbitMap/Tilepictures/Elemente/Tischtennisplatte",
+    "last.imagePath": "C:/Users/Patrick.wussow/Documents/GitHub/lmbitNordbitMap/Tilepictures/Elemente/00_Insel-Sammelsurium",
     "openFiles": [
         "island1.json",
         "island2.json",
