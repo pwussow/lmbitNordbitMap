@@ -93,13 +93,16 @@
         },
         "conf2.json": {
             "scale": 1.0735,
-            "selectedLayer": 6,
+            "selectedLayer": 5,
             "viewCenter": {
                 "x": 384.257102934327,
-                "y": 400.55891942244995
+                "y": 398.69585468095016
             }
         },
         "conf2.json#Baum_Vorlagen": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Baumgruppe_Fördeblick_Zeichenfläche 1": {
             "scaleInDock": 1
         },
         "conf2.json#Brief": {
@@ -181,6 +184,12 @@
         "conf2.json#Stern": {
             "scaleInDock": 1
         },
+        "conf2.json#Strandhandtücher_und_Schirme": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Strandstuhl_mit Tisch_Gitarre": {
+            "scaleInDock": 1
+        },
         "conf2.json#ZRPGBeach": {
             "scaleInDock": 1
         },
@@ -200,11 +209,11 @@
             "scaleInDock": 1
         },
         "conf3.json": {
-            "scale": 1.0735,
-            "selectedLayer": 5,
+            "scale": 1,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 384.257102934327,
-                "y": 394.0381928272007
+                "x": 456.5,
+                "y": 464
             }
         },
         "conf3.json#Ball-01": {
@@ -687,7 +696,7 @@
             "scaleInDock": 1
         }
     },
-    "last.imagePath": "C:/Users/Patrick.wussow/Documents/GitHub/lmbitNordbitMap/Tilepictures/Elemente/00_Insel-Sammelsurium",
+    "last.imagePath": "C:/Users/Patrick.wussow/Documents/GitHub/lmbitNordbitMap/Tilepictures/Elemente/Strandhandtücher",
     "openFiles": [
         "island1.json",
         "island2.json",
