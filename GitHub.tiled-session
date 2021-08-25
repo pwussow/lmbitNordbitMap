@@ -1,0 +1,1367 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA",
+        ".",
+        "C:/Uti/NordBit/lmbitNordbitMap-master"
+    ],
+    "file.lastUsedOpenFilter": "Alle Dateien (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf1.json": {
+            "scale": 1.055036855036855,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 384.34676292501166,
+                "y": 407.56870051234284
+            }
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf1.json#Fotoapparat": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf1.json#Muschel": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf1.json#Schriftzug_Untergrund_Ostseebrise": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf1.json#Schwimmring_blau": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf1.json#Schwimmring_doppelt": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf1.json#Schwimmring_violett": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf1.json#Seestern_grün_1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf1.json#Seestern_orange_1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf1.json#Seestern_orange_2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf1.json#Seestern_orange_3": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf1.json#Sonnenbrille_pink": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf1.json#Stein_hell_1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf1.json#Steine_hell_2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf1.json#Steine_hell_3": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf1.json#Strandhandtücher_und_Schirme": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf1.json#Wasserball_lila": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf1.json#Wasserball_pink": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf1.json#ZRPGBeach": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf1.json#ZRPGRocks2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf1.json#ZRPGtrees": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf1.json#tf_beach_tileA1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf1.json#tf_beach_tileB": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json": {
+            "scale": 1.0735,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 384.257102934327,
+                "y": 400.55891942244995
+            }
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json#Baum_Vorlagen": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json#Baumgruppe_Fördeblick_Zeichenfläche 1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json#Brief": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json#Fußspuren": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json#Geschenk": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json#Gitarre_32 pixel": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json#Glaskugel": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json#Gras_Vorlagen": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json#Kerze": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json#King Kong-01": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json#Kleeblatt": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json#Labyrinth_neu": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json#Muschel": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json#Möwe": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json#Ring": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json#Schatztruhe": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json#Schaufel": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json#Schild": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json#Schildkröte_2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json#Schriftrolle": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json#Schriftzug_Untergrund_Fördeblick": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json#Seestern_grün_1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json#Seestern_orange_3": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json#Spieluhr": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json#Stein_hell_1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json#Steine_hell_2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json#Steine_hell_3": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json#Stern": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json#Strandhandtücher_und_Schirme": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json#Strandstuhl_mit Tisch_Gitarre": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json#ZRPGBeach": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json#ZRPGRocks2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json#ZRPGtrees": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json#shark-5868569_64_pixel": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json#tf_beach_tileA1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json#tf_beach_tileB": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json": {
+            "scale": 1.0735,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 384.257102934327,
+                "y": 400.55891942244995
+            }
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json#Ball-01": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json#Beachvolleyball_Netz": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json#Flaschenpost": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json#Fußspuren": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json#Herzchen": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json#Liege_mit_Hut": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json#Luftmatratze": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json#Muschel": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json#Möwe": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json#Palme": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json#Schildkröte_2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json#Schriftzug_Untergrund_Sprottenclub_Zeichenfläche 1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json#Schwimmring": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json#Seestern_grün_1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json#Seestern_orange_1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json#Seestern_orange_2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json#Seestern_orange_3": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json#Stein_hell_1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json#Steine_hell_2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json#Steine_hell_3": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json#Strandstuhl_mit Tisch_Gitarre": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json#Surfbrett": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json#Taucherflossen": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json#Wachturm": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json#ZRPGBeach": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json#ZRPGRocks2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json#ZRPGtrees": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json#tf_beach_tileA1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json#tf_beach_tileB": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json": {
+            "scale": 0.45640569395017794,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 952.0038986354776,
+                "y": 473.26315789473693
+            }
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#Flamingo-Bar_Farbe geändert": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#Flamingo-Bar_ohne Untergrund": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#Flamingo_neu-64x64": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#Grasbüschel_64": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#Logo_Contechnet": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#Logo_Contechnet_als Untergrund": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#Logo_Fabula_Games_als Untergrund": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#Logo_Fujitsu": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#Logo_Fujitsu_als Untergrund": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#Logo_Logpoint": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#Logo_Logpoint_als Untergrund": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#Logo_Macmon_als Untergrund": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#Logo_macmon": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#Ship1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#Ship2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#Ship3": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#Sonnenschirm_128": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#Sonnenschirm_128pixel_Contechnet": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#Sonnenschirm_128pixel_FabulaGames": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#Sonnenschirm_128pixel_Fujiutsu": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#Sonnenschirm_128pixel_Logpoint": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#Sonnenschirm_128pixel_Macmon": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#Strandkorb-64": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#Wegweiser_zu den_Streams_FlamingoBeachclub": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#ZRPGBeach": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#ZRPGRocks2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#ZRPGtrees": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#fabula_games_neu": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#grüne Hecke mit grünem Untergrund": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#leuchtturm-neu2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#logo_lmbit_64": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#matrix42_logo_64": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#office_1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#schatzkiste": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#sophos_logo_64": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#tf_beach_tileA1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json#tf_beach_tileB": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json": {
+            "scale": 0.45991290983606553,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 944.744082428293,
+                "y": 432.6906154274576
+            }
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#Aloa-Blumen": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#Aloha Bar_1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#Aloha_Bar_Vorlagen": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#Ananas": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#Grasbüschel_64": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#Liege_mit_Hut": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#Logo_BlackBerry_Cylance": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#Logo_Blackberry_als Untergrund": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#Logo_Futuredat_als Untergrund": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#Logo_Laptagon_als Untergrund1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#Logo_Seppmail": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#Logo_Seppmail_als Untergrund": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#Orca": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#Palme": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#Sessel_mit Decke_Kissen": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#Sessel_mit_Katze": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#Sessel_ohne_Katze": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#Sonnenschirm_128": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#Sonnenschirm_128pixel_Blackberry": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#Sonnenschirm_128pixel_Blackberry_NEUESlOGO_300": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#Sonnenschirm_128pixel_Blackberry_NEUESlOGO_Vorlagen": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#Sonnenschirm_128pixel_Futuredat": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#Sonnenschirm_128pixel_Laptagon": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#Sonnenschirm_128pixel_Seppmail": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#Strandkorb-64": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#Surfbrett": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#Tischchen_petrol_mit_Zubehör": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#Tischchen_petrol_ohne_Zubehör": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#Tischchen_rosa_mit_Zubehör": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#Tischchen_rosa_ohne_Zubehör": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#Tresen-einzeln": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#Wassermelone-01": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#Wegweiser_AlohaBar_Gruppenchat": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#Wegweiser_weitere_Aussteller_Zeichenfläche 1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#Wegweiser_zurück_zum SprottenClub": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#ZRPGBeach": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#ZRPGRocks2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#ZRPGtrees": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#futuredat_neu_Zeichenfläche 1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#grüne Hecke mit grünem Untergrund": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#labtagon_neu": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#leuchtturm-neu2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#logo_lmbit_64": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#matrix42_logo_64": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#office_1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#sophos_logo_64": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#tf_beach_tileA1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json#tf_beach_tileB": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island3.json": {
+            "scale": 0.45991290983606553,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 944.744082428293,
+                "y": 480.52575884154834
+            }
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island3.json#Grasbüschel_64": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island3.json#Leuchtturm2Fixed": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island3.json#Logo_M42_als Untergrund": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island3.json#Logo_Sophos_als Untergrund": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island3.json#Logo_lmbit_als Untergrund": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island3.json#Sonnenschirm_128": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island3.json#Sonnenschirm_128pixel_Matrix42": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island3.json#Sonnenschirm_128pixel_Sophos": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island3.json#Sonnenschirm_128pixel_lmbit": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island3.json#Strandkorb-64": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island3.json#Surf_Segel": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island3.json#Wegweiser_weitere_Aussteller_Zeichenfläche 1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island3.json#Wegweiser_zum SprottenClub": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island3.json#ZRPGBeach": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island3.json#ZRPGRocks2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island3.json#ZRPGtrees": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island3.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island3.json#grüne Hecke mit grünem Untergrund": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island3.json#logo_lmbit_64": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island3.json#matrix42_logo_neu_": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island3.json#office_1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island3.json#sophos_logo_64": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island3.json#tf_beach_tileA1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island3.json#tf_beach_tileB": {
+            "scaleInDock": 1
+        },
+        "conf1.json": {
+            "scale": 1.0735,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 384.257102934327,
+                "y": 400.55891942244995
+            }
+        },
+        "conf1.json#Fotoapparat": {
+            "scaleInDock": 1
+        },
+        "conf1.json#Muschel": {
+            "scaleInDock": 1
+        },
+        "conf1.json#Schriftzug_Untergrund_Ostseebrise": {
+            "scaleInDock": 1
+        },
+        "conf1.json#Schwimmring_blau": {
+            "scaleInDock": 1
+        },
+        "conf1.json#Schwimmring_doppelt": {
+            "scaleInDock": 1
+        },
+        "conf1.json#Schwimmring_violett": {
+            "scaleInDock": 1
+        },
+        "conf1.json#Seestern_grün_1": {
+            "scaleInDock": 1
+        },
+        "conf1.json#Seestern_orange_1": {
+            "scaleInDock": 1
+        },
+        "conf1.json#Seestern_orange_2": {
+            "scaleInDock": 1
+        },
+        "conf1.json#Seestern_orange_3": {
+            "scaleInDock": 1
+        },
+        "conf1.json#Sonnenbrille_pink": {
+            "scaleInDock": 1
+        },
+        "conf1.json#Stein_hell_1": {
+            "scaleInDock": 1
+        },
+        "conf1.json#Steine_hell_2": {
+            "scaleInDock": 1
+        },
+        "conf1.json#Steine_hell_3": {
+            "scaleInDock": 1
+        },
+        "conf1.json#Strandhandtücher_und_Schirme": {
+            "scaleInDock": 1
+        },
+        "conf1.json#Stuhlkreis": {
+            "scaleInDock": 1
+        },
+        "conf1.json#Wasserball_lila": {
+            "scaleInDock": 1
+        },
+        "conf1.json#Wasserball_pink": {
+            "scaleInDock": 1
+        },
+        "conf1.json#ZRPGBeach": {
+            "scaleInDock": 1
+        },
+        "conf1.json#ZRPGRocks2": {
+            "scaleInDock": 1
+        },
+        "conf1.json#ZRPGtrees": {
+            "scaleInDock": 1
+        },
+        "conf1.json#dolphin-1184234_64Pixel_breit": {
+            "scaleInDock": 1
+        },
+        "conf1.json#tf_beach_tileA1": {
+            "scaleInDock": 1
+        },
+        "conf1.json#tf_beach_tileB": {
+            "scaleInDock": 1
+        },
+        "conf2.json": {
+            "scale": 1.0735,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 384.257102934327,
+                "y": 398.69585468095016
+            }
+        },
+        "conf2.json#Baum_Vorlagen": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Baumgruppe_Fördeblick_Zeichenfläche 1": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Brief": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Fußspuren": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Geschenk": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Gitarre_32 pixel": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Glaskugel": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Gras_Vorlagen": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Kerze": {
+            "scaleInDock": 1
+        },
+        "conf2.json#King Kong-01": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Kleeblatt": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Labyrinth_neu": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "conf2.json#Muschel": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Möwe": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Ring": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Schatztruhe": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Schaufel": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Schild": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Schildkröte_2": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Schriftrolle": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Schriftzug_Untergrund_Fördeblick": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Seestern_grün_1": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Seestern_orange_3": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Spieluhr": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Stein_hell_1": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Steine_hell_2": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Steine_hell_3": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Stern": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Strandhandtücher_und_Schirme": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Strandstuhl_mit Tisch_Gitarre": {
+            "scaleInDock": 1
+        },
+        "conf2.json#ZRPGBeach": {
+            "scaleInDock": 1
+        },
+        "conf2.json#ZRPGRocks2": {
+            "scaleInDock": 1
+        },
+        "conf2.json#ZRPGtrees": {
+            "scaleInDock": 1
+        },
+        "conf2.json#shark-5868569_64_pixel": {
+            "scaleInDock": 1
+        },
+        "conf2.json#tf_beach_tileA1": {
+            "scaleInDock": 1
+        },
+        "conf2.json#tf_beach_tileB": {
+            "scaleInDock": 1
+        },
+        "conf3.json": {
+            "scale": 1,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 456.5,
+                "y": 464
+            }
+        },
+        "conf3.json#Ball-01": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Beachvolleyball_Netz": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Flaschenpost": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Fußspuren": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Herzchen": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Liege_mit_Hut": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Luftmatratze": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Muschel": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Möwe": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Palme": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Schildkröte_2": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Schriftzug_Untergrund_Sprottenclub_Zeichenfläche 1": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Schwimmring": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Seestern_grün_1": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Seestern_orange_1": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Seestern_orange_2": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Seestern_orange_3": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Stein_hell_1": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Steine_hell_2": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Steine_hell_3": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Strandstuhl_mit Tisch_Gitarre": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Surfbrett": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Taucherflossen": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Wachturm": {
+            "scaleInDock": 1
+        },
+        "conf3.json#ZRPGBeach": {
+            "scaleInDock": 1
+        },
+        "conf3.json#ZRPGRocks2": {
+            "scaleInDock": 1
+        },
+        "conf3.json#ZRPGtrees": {
+            "scaleInDock": 1
+        },
+        "conf3.json#tf_beach_tileA1": {
+            "scaleInDock": 1
+        },
+        "conf3.json#tf_beach_tileB": {
+            "scaleInDock": 1
+        },
+        "island1.json": {
+            "scale": 0.5,
+            "selectedLayer": 31,
+            "viewCenter": {
+                "x": 937,
+                "y": 474
+            }
+        },
+        "island1.json#Flamingo-Bar_Farbe geändert": {
+            "scaleInDock": 1
+        },
+        "island1.json#Flamingo-Bar_ohne Untergrund": {
+            "scaleInDock": 1
+        },
+        "island1.json#Flamingo_neu-64x64": {
+            "scaleInDock": 1
+        },
+        "island1.json#Grasbüschel_64": {
+            "scaleInDock": 1
+        },
+        "island1.json#Logo_Contechnet": {
+            "scaleInDock": 1
+        },
+        "island1.json#Logo_Contechnet_als Untergrund": {
+            "scaleInDock": 1
+        },
+        "island1.json#Logo_Fabula_Games_als Untergrund": {
+            "scaleInDock": 1
+        },
+        "island1.json#Logo_Fujitsu": {
+            "scaleInDock": 1
+        },
+        "island1.json#Logo_Fujitsu_als Untergrund": {
+            "scaleInDock": 1
+        },
+        "island1.json#Logo_Logpoint": {
+            "scaleInDock": 1
+        },
+        "island1.json#Logo_Logpoint_als Untergrund": {
+            "scaleInDock": 1
+        },
+        "island1.json#Logo_Macmon_als Untergrund": {
+            "scaleInDock": 1
+        },
+        "island1.json#Logo_macmon": {
+            "scaleInDock": 1
+        },
+        "island1.json#Ship1": {
+            "scaleInDock": 1
+        },
+        "island1.json#Ship2": {
+            "scaleInDock": 1
+        },
+        "island1.json#Ship3": {
+            "scaleInDock": 1
+        },
+        "island1.json#Sonnenschirm_128": {
+            "scaleInDock": 1
+        },
+        "island1.json#Sonnenschirm_128pixel_Contechnet": {
+            "scaleInDock": 1
+        },
+        "island1.json#Sonnenschirm_128pixel_FabulaGames": {
+            "scaleInDock": 1
+        },
+        "island1.json#Sonnenschirm_128pixel_Fujiutsu": {
+            "scaleInDock": 1
+        },
+        "island1.json#Sonnenschirm_128pixel_Logpoint": {
+            "scaleInDock": 1
+        },
+        "island1.json#Sonnenschirm_128pixel_Macmon": {
+            "scaleInDock": 1
+        },
+        "island1.json#Strandkorb-64": {
+            "scaleInDock": 1
+        },
+        "island1.json#Wegweiser_zu den_Streams": {
+            "scaleInDock": 1
+        },
+        "island1.json#Wegweiser_zu den_Streams_FlamingoBeachclub": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "island1.json#ZRPGBeach": {
+            "scaleInDock": 1
+        },
+        "island1.json#ZRPGRocks2": {
+            "scaleInDock": 1
+        },
+        "island1.json#ZRPGtrees": {
+            "scaleInDock": 1
+        },
+        "island1.json#fabula_games_neu": {
+            "scaleInDock": 1
+        },
+        "island1.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "island1.json#grüne Hecke mit grünem Untergrund": {
+            "scaleInDock": 1
+        },
+        "island1.json#leuchtturm-neu2": {
+            "scaleInDock": 1
+        },
+        "island1.json#logo_lmbit_64": {
+            "scaleInDock": 1
+        },
+        "island1.json#matrix42_logo_64": {
+            "scaleInDock": 1
+        },
+        "island1.json#office_1": {
+            "scaleInDock": 1
+        },
+        "island1.json#schatzkiste": {
+            "scaleInDock": 1
+        },
+        "island1.json#sophos_logo_64": {
+            "scaleInDock": 1
+        },
+        "island1.json#tf_beach_tileA1": {
+            "scaleInDock": 1
+        },
+        "island1.json#tf_beach_tileB": {
+            "scaleInDock": 1
+        },
+        "island2.json": {
+            "scale": 0.75,
+            "selectedLayer": 22,
+            "viewCenter": {
+                "x": 511.33333333333326,
+                "y": 428
+            }
+        },
+        "island2.json#Aloa-Blumen": {
+            "scaleInDock": 1
+        },
+        "island2.json#Aloha Bar_1": {
+            "scaleInDock": 1
+        },
+        "island2.json#Aloha_Bar_Vorlagen": {
+            "scaleInDock": 1
+        },
+        "island2.json#Ananas": {
+            "scaleInDock": 1
+        },
+        "island2.json#Grasbüschel_64": {
+            "scaleInDock": 1
+        },
+        "island2.json#Liege_mit_Hut": {
+            "scaleInDock": 1
+        },
+        "island2.json#Logo_BlackBerry_Cylance": {
+            "scaleInDock": 1
+        },
+        "island2.json#Logo_Blackberry_als Untergrund": {
+            "scaleInDock": 1
+        },
+        "island2.json#Logo_Futuredat_als Untergrund": {
+            "scaleInDock": 1
+        },
+        "island2.json#Logo_Laptagon_als Untergrund1": {
+            "scaleInDock": 1
+        },
+        "island2.json#Logo_Seppmail": {
+            "scaleInDock": 1
+        },
+        "island2.json#Logo_Seppmail_als Untergrund": {
+            "scaleInDock": 1
+        },
+        "island2.json#Logo_Seppmail_als Untergrund-01": {
+            "scaleInDock": 1
+        },
+        "island2.json#Orca": {
+            "scaleInDock": 1
+        },
+        "island2.json#Palme": {
+            "scaleInDock": 1
+        },
+        "island2.json#Sessel_mit Decke_Kissen": {
+            "scaleInDock": 1
+        },
+        "island2.json#Sessel_mit_Katze": {
+            "scaleInDock": 1
+        },
+        "island2.json#Sessel_ohne_Katze": {
+            "scaleInDock": 1
+        },
+        "island2.json#Sonnenschirm_128": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "island2.json#Sonnenschirm_128pixel_Blackberry": {
+            "scaleInDock": 1
+        },
+        "island2.json#Sonnenschirm_128pixel_Blackberry_NEUESlOGO_300": {
+            "scaleInDock": 1
+        },
+        "island2.json#Sonnenschirm_128pixel_Blackberry_NEUESlOGO_Vorlagen": {
+            "scaleInDock": 1
+        },
+        "island2.json#Sonnenschirm_128pixel_Futuredat": {
+            "scaleInDock": 1
+        },
+        "island2.json#Sonnenschirm_128pixel_Laptagon": {
+            "scaleInDock": 1
+        },
+        "island2.json#Sonnenschirm_128pixel_Seppmail": {
+            "scaleInDock": 1
+        },
+        "island2.json#Strandkorb-64": {
+            "scaleInDock": 1
+        },
+        "island2.json#Surfbrett": {
+            "scaleInDock": 1
+        },
+        "island2.json#Tischchen_petrol_mit_Zubehör": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "island2.json#Tischchen_petrol_ohne_Zubehör": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "island2.json#Tischchen_rosa_mit_Zubehör": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "island2.json#Tischchen_rosa_ohne_Zubehör": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "island2.json#Tresen-einzeln": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "island2.json#Tresen-einzeln_64Pixel_96 Pixel": {
+            "scaleInDock": 1
+        },
+        "island2.json#Wassermelone-01": {
+            "scaleInDock": 1
+        },
+        "island2.json#Wegweiser_AlohaBar_Gruppenchat": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "island2.json#Wegweiser_weitere_Aussteller_Zeichenfläche 1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "island2.json#Wegweiser_zurück_zum SprottenClub": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "island2.json#ZRPGBeach": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "island2.json#ZRPGRocks2": {
+            "scaleInDock": 1
+        },
+        "island2.json#ZRPGtrees": {
+            "scaleInDock": 1
+        },
+        "island2.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "island2.json#futuredat_neu_Zeichenfläche 1": {
+            "scaleInDock": 1
+        },
+        "island2.json#grüne Hecke mit grünem Untergrund": {
+            "scaleInDock": 1
+        },
+        "island2.json#labtagon_neu": {
+            "scaleInDock": 1
+        },
+        "island2.json#leuchtturm-neu2": {
+            "scaleInDock": 1
+        },
+        "island2.json#logo_lmbit_64": {
+            "scaleInDock": 1
+        },
+        "island2.json#matrix42_logo_64": {
+            "scaleInDock": 1
+        },
+        "island2.json#office_1": {
+            "scaleInDock": 1
+        },
+        "island2.json#seppmail_schriftzug": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "island2.json#sophos_logo_64": {
+            "scaleInDock": 1
+        },
+        "island2.json#tf_beach_tileA1": {
+            "scaleInDock": 1
+        },
+        "island2.json#tf_beach_tileB": {
+            "scaleInDock": 1
+        },
+        "island2.json#wegweiser_neu": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "island3.json": {
+            "scale": 0.75,
+            "selectedLayer": 29,
+            "viewCenter": {
+                "x": 824.6666666666667,
+                "y": 494.6666666666666
+            }
+        },
+        "island3.json#Grasbüschel_64": {
+            "scaleInDock": 1
+        },
+        "island3.json#Leuchtturm2Fixed": {
+            "scaleInDock": 1
+        },
+        "island3.json#Logo_M42_als Untergrund": {
+            "scaleInDock": 1
+        },
+        "island3.json#Logo_Sophos_als Untergrund": {
+            "scaleInDock": 1
+        },
+        "island3.json#Logo_lmbit_als Untergrund": {
+            "scaleInDock": 1
+        },
+        "island3.json#Sonnenschirm_128": {
+            "scaleInDock": 1
+        },
+        "island3.json#Sonnenschirm_128pixel_Matrix42": {
+            "scaleInDock": 1
+        },
+        "island3.json#Sonnenschirm_128pixel_Sophos": {
+            "scaleInDock": 1
+        },
+        "island3.json#Sonnenschirm_128pixel_lmbit": {
+            "scaleInDock": 1
+        },
+        "island3.json#Strandkorb-64": {
+            "scaleInDock": 1
+        },
+        "island3.json#Surf_Segel": {
+            "scaleInDock": 1
+        },
+        "island3.json#Wegweiser_weitere_Aussteller_Zeichenfläche 1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "island3.json#Wegweiser_zum SprottenClub": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "island3.json#ZRPGBeach": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "island3.json#ZRPGRocks2": {
+            "scaleInDock": 1
+        },
+        "island3.json#ZRPGtrees": {
+            "scaleInDock": 1
+        },
+        "island3.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "island3.json#grüne Hecke mit grünem Untergrund": {
+            "scaleInDock": 1
+        },
+        "island3.json#logo_lmbit_64": {
+            "scaleInDock": 1
+        },
+        "island3.json#matrix42_logo_neu_": {
+            "scaleInDock": 1
+        },
+        "island3.json#office_1": {
+            "scaleInDock": 1
+        },
+        "island3.json#sophos_logo_64": {
+            "scaleInDock": 1
+        },
+        "island3.json#tf_beach_tileA1": {
+            "scaleInDock": 1
+        },
+        "island3.json#tf_beach_tileB": {
+            "scaleInDock": 1
+        },
+        "island3.json#wegweise_neu": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "C:/Users/Patrick.wussow/Documents/GitHub/lmbitNordbitMap/Tilepictures/Elemente/Strandhandtücher",
+    "openFiles": [
+        "island1.json",
+        "island2.json",
+        "island3.json",
+        "conf2.json",
+        "conf3.json"
+    ],
+    "project": "",
+    "property.type": "bool",
+    "recentFiles": [
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json",
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json",
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf1.json",
+        "conf3.json",
+        "conf2.json",
+        "conf1.json",
+        "island3.json",
+        "island2.json",
+        "island1.json",
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island3.json",
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json",
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json"
+    ],
+    "tileset.embedInMap": true
+}
