@@ -130,7 +130,8 @@
             "scaleInDock": 1
         },
         "conf2.json#Labyrinth_neu": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "conf2.json#Muschel": {
             "scaleInDock": 1
@@ -148,6 +149,9 @@
             "scaleInDock": 1
         },
         "conf2.json#Schild": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Schildkröte_2": {
             "scaleInDock": 1
         },
         "conf2.json#Schriftrolle": {
@@ -197,11 +201,80 @@
         },
         "conf3.json": {
             "scale": 1.0735,
-            "selectedLayer": 0,
+            "selectedLayer": 5,
             "viewCenter": {
                 "x": 384.257102934327,
-                "y": 272.9389846297159
+                "y": 394.0381928272007
             }
+        },
+        "conf3.json#Ball-01": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Beachvolleyball_Netz": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Flaschenpost": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Fußspuren": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Herzchen": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Liege_mit_Hut": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Luftmatratze": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Muschel": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Möwe": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Palme": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Schildkröte_2": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Schwimmring": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Seestern_grün_1": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Seestern_orange_1": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Seestern_orange_2": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Seestern_orange_3": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Stein_hell_1": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Steine_hell_2": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Steine_hell_3": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Strandstuhl_mit Tisch_Gitarre": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Surfbrett": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Taucherflossen": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Wachturm": {
+            "scaleInDock": 1
         },
         "conf3.json#ZRPGBeach": {
             "scaleInDock": 1
@@ -602,7 +675,7 @@
             "scaleInDock": 1
         }
     },
-    "last.imagePath": "C:/Users/Patrick.wussow/Documents/GitHub/lmbitNordbitMap/Tilepictures/Elemente/Steine",
+    "last.imagePath": "C:/Users/Patrick.wussow/Documents/GitHub/lmbitNordbitMap/Tilepictures/Elemente/Palme",
     "openFiles": [
         "island1.json",
         "island2.json",
