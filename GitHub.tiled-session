@@ -1,9 +1,9 @@
 {
     "activeFile": "",
     "expandedProjectPaths": [
-        "C:/Uti/NordBit/lmbitNordbitMap-master",
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA",
-        "."
+        ".",
+        "C:/Uti/NordBit/lmbitNordbitMap-master"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -88,10 +88,10 @@
         },
         "island1.json": {
             "scale": 0.5,
-            "selectedLayer": 33,
+            "selectedLayer": 31,
             "viewCenter": {
-                "x": 939,
-                "y": 544
+                "x": 937,
+                "y": 474
             }
         },
         "island1.json#Flamingo-Bar_Farbe geändert": {
@@ -165,6 +165,10 @@
         },
         "island1.json#Wegweiser_zu den_Streams": {
             "scaleInDock": 1
+        },
+        "island1.json#Wegweiser_zu den_Streams_FlamingoBeachclub": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "island1.json#ZRPGBeach": {
             "scaleInDock": 1
@@ -309,7 +313,8 @@
             "scaleInEditor": 1
         },
         "island2.json#Tresen-einzeln": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "island2.json#Tresen-einzeln_64Pixel_96 Pixel": {
             "scaleInDock": 1
@@ -467,17 +472,21 @@
     },
     "last.imagePath": "C:/Users/Patrick.wussow/Documents/GitHub/lmbitNordbitMap/Tilepictures/Elemente/Wegweiser",
     "openFiles": [
-        "island1.json"
+        "island1.json",
+        "island2.json",
+        "island3.json",
+        "conf2.json",
+        "conf3.json"
     ],
     "project": "",
     "property.type": "bool",
     "recentFiles": [
-        "conf1.json",
-        "island3.json",
-        "island2.json",
         "island1.json",
-        "conf3.json",
+        "island2.json",
+        "island3.json",
         "conf2.json",
+        "conf3.json",
+        "conf1.json",
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json",
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json",
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf1.json",
