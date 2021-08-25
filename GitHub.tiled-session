@@ -745,7 +745,7 @@
             "selectedLayer": 6,
             "viewCenter": {
                 "x": 383.3255705635771,
-                "y": 399.1616208663251
+                "y": 398.69585468095016
             }
         },
         "conf2.json#Baum_Vorlagen": {
@@ -812,6 +812,9 @@
         "conf2.json#Schriftzug_Untergrund_Fördeblick": {
             "scaleInDock": 1
         },
+        "conf2.json#Schriftzug_Untergrund_Fördeblick_neu_": {
+            "scaleInDock": 1
+        },
         "conf2.json#Seestern_grün_1": {
             "scaleInDock": 1
         },
@@ -863,7 +866,7 @@
         },
         "conf3.json": {
             "scale": 1,
-            "selectedLayer": 6,
+            "selectedLayer": 2,
             "viewCenter": {
                 "x": 456.5,
                 "y": 462
@@ -903,6 +906,9 @@
             "scaleInDock": 1
         },
         "conf3.json#Schriftzug_Untergrund_Sprottenclub_Zeichenfläche 1": {
+            "scaleInDock": 1
+        },
+        "conf3.json#Schriftzug_Untergrund_Sprottenclub_neu_Zeichenfläche 1": {
             "scaleInDock": 1
         },
         "conf3.json#Schwimmring": {
@@ -1086,8 +1092,8 @@
             "scale": 0.5,
             "selectedLayer": 23,
             "viewCenter": {
-                "x": 943,
-                "y": 433
+                "x": 857,
+                "y": 470
             }
         },
         "island2.json#Aloa-Blumen": {
@@ -1269,7 +1275,7 @@
             "selectedLayer": 29,
             "viewCenter": {
                 "x": 943.3333333333333,
-                "y": 479.33333333333337
+                "y": 480
             }
         },
         "island3.json#Grasbüschel_64": {
