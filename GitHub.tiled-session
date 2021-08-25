@@ -13,13 +13,64 @@
         },
         "conf1.json": {
             "scale": 1.0735,
-            "selectedLayer": 5,
+            "selectedLayer": 8,
             "viewCenter": {
                 "x": 384.257102934327,
                 "y": 400.55891942244995
             }
         },
+        "conf1.json#Fotoapparat": {
+            "scaleInDock": 1
+        },
+        "conf1.json#Muschel": {
+            "scaleInDock": 1
+        },
+        "conf1.json#Schriftzug_Untergrund_Ostseebrise": {
+            "scaleInDock": 1
+        },
+        "conf1.json#Schwimmring_blau": {
+            "scaleInDock": 1
+        },
+        "conf1.json#Schwimmring_doppelt": {
+            "scaleInDock": 1
+        },
+        "conf1.json#Schwimmring_violett": {
+            "scaleInDock": 1
+        },
+        "conf1.json#Seestern_grün_1": {
+            "scaleInDock": 1
+        },
+        "conf1.json#Seestern_orange_1": {
+            "scaleInDock": 1
+        },
+        "conf1.json#Seestern_orange_2": {
+            "scaleInDock": 1
+        },
+        "conf1.json#Seestern_orange_3": {
+            "scaleInDock": 1
+        },
+        "conf1.json#Sonnenbrille_pink": {
+            "scaleInDock": 1
+        },
+        "conf1.json#Stein_hell_1": {
+            "scaleInDock": 1
+        },
+        "conf1.json#Steine_hell_2": {
+            "scaleInDock": 1
+        },
+        "conf1.json#Steine_hell_3": {
+            "scaleInDock": 1
+        },
+        "conf1.json#Strandhandtücher_und_Schirme": {
+            "scaleInDock": 1
+        },
         "conf1.json#Stuhlkreis": {
+            "scaleInDock": 1
+        },
+        "conf1.json#Wasserball_lila": {
+            "scaleInDock": 1
+        },
+        "conf1.json#Wasserball_pink": {
             "scaleInDock": 1
         },
         "conf1.json#ZRPGBeach": {
@@ -42,11 +93,89 @@
         },
         "conf2.json": {
             "scale": 1.0735,
-            "selectedLayer": 0,
+            "selectedLayer": 6,
             "viewCenter": {
                 "x": 384.257102934327,
                 "y": 400.55891942244995
             }
+        },
+        "conf2.json#Baum_Vorlagen": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Brief": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Fußspuren": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Geschenk": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Gitarre_32 pixel": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Glaskugel": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Gras_Vorlagen": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Kerze": {
+            "scaleInDock": 1
+        },
+        "conf2.json#King Kong-01": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Kleeblatt": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Labyrinth_neu": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Muschel": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Möwe": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Ring": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Schatztruhe": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Schaufel": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Schild": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Schriftrolle": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Schriftzug_Untergrund_Fördeblick": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Seestern_grün_1": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Seestern_orange_3": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Spieluhr": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Stein_hell_1": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Steine_hell_2": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Steine_hell_3": {
+            "scaleInDock": 1
+        },
+        "conf2.json#Stern": {
+            "scaleInDock": 1
         },
         "conf2.json#ZRPGBeach": {
             "scaleInDock": 1
@@ -55,6 +184,9 @@
             "scaleInDock": 1
         },
         "conf2.json#ZRPGtrees": {
+            "scaleInDock": 1
+        },
+        "conf2.json#shark-5868569_64_pixel": {
             "scaleInDock": 1
         },
         "conf2.json#tf_beach_tileA1": {
@@ -216,8 +348,8 @@
             "scale": 1,
             "selectedLayer": 29,
             "viewCenter": {
-                "x": 460.5,
-                "y": 423
+                "x": 943.5,
+                "y": 431.5
             }
         },
         "island2.json#Aloa-Blumen": {
@@ -386,8 +518,8 @@
             "scale": 0.75,
             "selectedLayer": 29,
             "viewCenter": {
-                "x": 824.6666666666667,
-                "y": 494.6666666666666
+                "x": 943.3333333333333,
+                "y": 479.33333333333337
             }
         },
         "island3.json#Grasbüschel_64": {
@@ -470,7 +602,7 @@
             "scaleInDock": 1
         }
     },
-    "last.imagePath": "C:/Users/Patrick.wussow/Documents/GitHub/lmbitNordbitMap/Tilepictures/Elemente/Wegweiser",
+    "last.imagePath": "C:/Users/Patrick.wussow/Documents/GitHub/lmbitNordbitMap/Tilepictures/Elemente/Steine",
     "openFiles": [
         "island1.json",
         "island2.json",
