@@ -662,7 +662,7 @@
         },
         "conf1.json": {
             "scale": 1.0735,
-            "selectedLayer": 6,
+            "selectedLayer": 2,
             "viewCenter": {
                 "x": 384.257102934327,
                 "y": 400.55891942244995
@@ -675,6 +675,9 @@
             "scaleInDock": 1
         },
         "conf1.json#Schriftzug_Untergrund_Ostseebrise": {
+            "scaleInDock": 1
+        },
+        "conf1.json#Schriftzug_Untergrund_Ostseebrise_neu": {
             "scaleInDock": 1
         },
         "conf1.json#Schwimmring_blau": {
