@@ -966,11 +966,11 @@
             "scaleInDock": 1
         },
         "island1.json": {
-            "scale": 0.5,
-            "selectedLayer": 33,
+            "scale": 0.75,
+            "selectedLayer": 9,
             "viewCenter": {
-                "x": 826,
-                "y": 359
+                "x": 1625.3333333333335,
+                "y": 334
             }
         },
         "island1.json#Flamingo-Bar_Farbe geändert": {
@@ -1085,6 +1085,9 @@
             "scaleInDock": 1
         },
         "island1.json#matrix42_logo_64": {
+            "scaleInDock": 1
+        },
+        "island1.json#meerjungfrau": {
             "scaleInDock": 1
         },
         "island1.json#office_1": {
