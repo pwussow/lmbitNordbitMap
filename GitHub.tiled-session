@@ -8,7 +8,7 @@
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "": {
-            "scaleInDock": 1,
+            "scaleInDock": 0.25,
             "scaleInEditor": 1
         },
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf1.json": {
@@ -748,7 +748,7 @@
             "selectedLayer": 6,
             "viewCenter": {
                 "x": 383.3255705635771,
-                "y": 398.69585468095016
+                "y": 399.62738705170005
             }
         },
         "conf2.json#Baum_Vorlagen": {
@@ -872,7 +872,7 @@
             "selectedLayer": 2,
             "viewCenter": {
                 "x": 456.5,
-                "y": 462
+                "y": 461.5
             }
         },
         "conf3.json#Ball-01": {
@@ -985,6 +985,9 @@
         "island1.json#Grasbüschel_64": {
             "scaleInDock": 1
         },
+        "island1.json#Inselelemente_Insel_03_zum_Einsetzen_in_Tiled": {
+            "scaleInDock": 0.33
+        },
         "island1.json#Logo_Contechnet": {
             "scaleInDock": 1
         },
@@ -1096,7 +1099,7 @@
             "selectedLayer": 23,
             "viewCenter": {
                 "x": 857,
-                "y": 470
+                "y": 471
             }
         },
         "island2.json#Aloa-Blumen": {
@@ -1278,7 +1281,7 @@
             "selectedLayer": 29,
             "viewCenter": {
                 "x": 943.3333333333333,
-                "y": 480
+                "y": 479.99999999999994
             }
         },
         "island3.json#Grasbüschel_64": {
