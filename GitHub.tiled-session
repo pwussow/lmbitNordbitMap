@@ -986,7 +986,8 @@
             "scaleInDock": 1
         },
         "island1.json#Inselelemente_Insel_03_neues-Seitenverhältnis_Einsetzen_Tiled": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 0.5
         },
         "island1.json#Inselelemente_Insel_03_zum_Einsetzen_in_Tiled": {
             "scaleInDock": 0.33
@@ -1056,7 +1057,8 @@
             "scaleInEditor": 1
         },
         "island1.json#Wegweiser_zurück_zum SprottenClub_u. AlohaBar": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "island1.json#ZRPGBeach": {
             "scaleInDock": 1
