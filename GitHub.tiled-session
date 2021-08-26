@@ -967,10 +967,10 @@
         },
         "island1.json": {
             "scale": 0.5,
-            "selectedLayer": 31,
+            "selectedLayer": 33,
             "viewCenter": {
-                "x": 951,
-                "y": 473
+                "x": 826,
+                "y": 359
             }
         },
         "island1.json#Flamingo-Bar_Farbe geändert": {
@@ -983,6 +983,9 @@
             "scaleInDock": 1
         },
         "island1.json#Grasbüschel_64": {
+            "scaleInDock": 1
+        },
+        "island1.json#Inselelemente_Insel_03_neues-Seitenverhältnis_Einsetzen_Tiled": {
             "scaleInDock": 1
         },
         "island1.json#Inselelemente_Insel_03_zum_Einsetzen_in_Tiled": {
@@ -1051,6 +1054,9 @@
         "island1.json#Wegweiser_zu den_Streams_FlamingoBeachclub": {
             "scaleInDock": 1,
             "scaleInEditor": 1
+        },
+        "island1.json#Wegweiser_zurück_zum SprottenClub_u. AlohaBar": {
+            "scaleInDock": 1
         },
         "island1.json#ZRPGBeach": {
             "scaleInDock": 1
@@ -1280,7 +1286,7 @@
             "scale": 0.5,
             "selectedLayer": 20,
             "viewCenter": {
-                "x": 981,
+                "x": 1350,
                 "y": 487
             }
         },
