@@ -8,7 +8,7 @@
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "": {
-            "scaleInDock": 0.25,
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf1.json": {
@@ -748,7 +748,7 @@
             "selectedLayer": 6,
             "viewCenter": {
                 "x": 383.3255705635771,
-                "y": 399.62738705170005
+                "y": 399.1616208663251
             }
         },
         "conf2.json#Baum_Vorlagen": {
@@ -1277,15 +1277,19 @@
             "scaleInDock": 1
         },
         "island3.json": {
-            "scale": 0.75,
-            "selectedLayer": 29,
+            "scale": 0.5,
+            "selectedLayer": 20,
             "viewCenter": {
-                "x": 943.3333333333333,
-                "y": 479.99999999999994
+                "x": 981,
+                "y": 487
             }
         },
         "island3.json#Grasbüschel_64": {
             "scaleInDock": 1
+        },
+        "island3.json#Inselelemente_Insel_01_zum_Einsetzen_in_Tiled_Ostseebrise": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.75
         },
         "island3.json#Leuchtturm2Fixed": {
             "scaleInDock": 1
@@ -1364,7 +1368,7 @@
             "scaleInDock": 1
         }
     },
-    "last.imagePath": "C:/Users/Patrick.wussow/Documents/GitHub/lmbitNordbitMap/Tilepictures/Elemente/00_Insel-Sammelsurium",
+    "last.imagePath": "C:/Users/Patrick.wussow/Documents/GitHub/lmbitNordbitMap/Tilepictures/Elemente/Wegweiser",
     "openFiles": [
         "island1.json",
         "island2.json",
