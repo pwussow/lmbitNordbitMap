@@ -1,8 +1,8 @@
 {
-    "activeFile": "",
+    "activeFile": "island3.json",
     "expandedProjectPaths": [
-        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA",
         ".",
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA",
         "C:/Uti/NordBit/lmbitNordbitMap-master"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
@@ -664,7 +664,7 @@
             "scale": 1.0735,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 384.257102934327,
+                "x": 384.72286911970184,
                 "y": 400.55891942244995
             }
         },
@@ -747,8 +747,8 @@
             "scale": 1.0735,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 383.3255705635771,
-                "y": 399.1616208663251
+                "x": 383.791336748952,
+                "y": 399.62738705170005
             }
         },
         "conf2.json#Baum_Vorlagen": {
@@ -849,6 +849,10 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "conf2.json#Tischtennisplatte_Zeichenfläche 1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "conf2.json#ZRPGBeach": {
             "scaleInDock": 1
         },
@@ -871,8 +875,8 @@
             "scale": 1,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 456.5,
-                "y": 461.5
+                "x": 456,
+                "y": 460
             }
         },
         "conf3.json#Ball-01": {
@@ -969,8 +973,8 @@
             "scale": 0.75,
             "selectedLayer": 9,
             "viewCenter": {
-                "x": 1625.3333333333335,
-                "y": 334
+                "x": 951.3333333333333,
+                "y": 471.3333333333333
             }
         },
         "island1.json#Flamingo-Bar_Farbe geändert": {
@@ -1109,8 +1113,8 @@
             "scale": 0.5,
             "selectedLayer": 23,
             "viewCenter": {
-                "x": 857,
-                "y": 471
+                "x": 943,
+                "y": 433
             }
         },
         "island2.json#Aloa-Blumen": {
@@ -1289,10 +1293,10 @@
         },
         "island3.json": {
             "scale": 0.5,
-            "selectedLayer": 26,
+            "selectedLayer": 5,
             "viewCenter": {
                 "x": 1348,
-                "y": 485
+                "y": 518
             }
         },
         "island3.json#Grasbüschel_64": {
@@ -1379,22 +1383,20 @@
             "scaleInDock": 1
         }
     },
-    "last.imagePath": "C:/Users/Patrick.wussow/Documents/GitHub/lmbitNordbitMap/Tilepictures/Elemente/Meerjungfrau",
+    "last.imagePath": "C:/Users/Patrick.wussow/Documents/GitHub/lmbitNordbitMap/Tilepictures/Elemente/Tischtennisplatte",
     "openFiles": [
         "island1.json",
         "island2.json",
-        "island3.json",
-        "conf2.json",
-        "conf3.json"
+        "island3.json"
     ],
     "project": "",
     "property.type": "bool",
     "recentFiles": [
+        "island1.json",
+        "island2.json",
+        "island3.json",
         "conf3.json",
         "conf2.json",
-        "island3.json",
-        "island2.json",
-        "island1.json",
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island3.json",
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json",
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json",
