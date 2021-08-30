@@ -1,5 +1,5 @@
 {
-    "activeFile": "island3.json",
+    "activeFile": "conf3.json",
     "expandedProjectPaths": [
         ".",
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA",
@@ -664,8 +664,8 @@
             "scale": 1.0735,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 384.72286911970184,
-                "y": 400.55891942244995
+                "x": 384.72286911970195,
+                "y": 399.6273870517001
             }
         },
         "conf1.json#Fotoapparat": {
@@ -747,8 +747,8 @@
             "scale": 1.0735,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 383.791336748952,
-                "y": 399.62738705170005
+                "x": 384.72286911970195,
+                "y": 399.6273870517001
             }
         },
         "conf2.json#Baum_Vorlagen": {
@@ -875,8 +875,8 @@
             "scale": 1,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 456,
-                "y": 460
+                "x": 754,
+                "y": 407
             }
         },
         "conf3.json#Ball-01": {
@@ -973,8 +973,8 @@
             "scale": 0.75,
             "selectedLayer": 9,
             "viewCenter": {
-                "x": 951.3333333333333,
-                "y": 471.3333333333333
+                "x": 950.6666666666666,
+                "y": 471.99999999999994
             }
         },
         "island1.json#Flamingo-Bar_Farbe geändert": {
@@ -1110,11 +1110,11 @@
             "scaleInDock": 1
         },
         "island2.json": {
-            "scale": 0.5,
+            "scale": 0.75,
             "selectedLayer": 23,
             "viewCenter": {
-                "x": 943,
-                "y": 433
+                "x": 944,
+                "y": 431.99999999999994
             }
         },
         "island2.json#Aloa-Blumen": {
@@ -1292,11 +1292,11 @@
             "scaleInDock": 1
         },
         "island3.json": {
-            "scale": 0.5,
+            "scale": 0.75,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 1348,
-                "y": 518
+                "x": 944,
+                "y": 479.99999999999994
             }
         },
         "island3.json#Grasbüschel_64": {
@@ -1387,7 +1387,10 @@
     "openFiles": [
         "island1.json",
         "island2.json",
-        "island3.json"
+        "island3.json",
+        "conf1.json",
+        "conf2.json",
+        "conf3.json"
     ],
     "project": "",
     "property.type": "bool",
@@ -1395,15 +1398,15 @@
         "island1.json",
         "island2.json",
         "island3.json",
-        "conf3.json",
+        "conf1.json",
         "conf2.json",
+        "conf3.json",
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island3.json",
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island2.json",
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/island1.json",
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf3.json",
         "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf2.json",
-        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf1.json",
-        "conf1.json"
+        "C:/Users/Patrick.wussow/Documents/GitHub/NordbitWOKA/conf1.json"
     ],
     "tileset.embedInMap": true
 }
