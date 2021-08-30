@@ -180,11 +180,38 @@
          "visible":true,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":12,
+         "name":"Message",
+         "objects":[
+                {
+                 "height":99,
+                 "id":2,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":109,
+                 "x":687,
+                 "y":172
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
         }],
- "nextlayerid":12,
- "nextobjectid":1,
+ "nextlayerid":13,
+ "nextobjectid":3,
  "orientation":"orthogonal",
  "properties":[
+        {
+         "name":"script",
+         "type":"string",
+         "value":"script.js"
+        }, 
         {
          "name":"start",
          "type":"string",

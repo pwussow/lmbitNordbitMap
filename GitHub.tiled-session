@@ -873,10 +873,10 @@
         },
         "conf3.json": {
             "scale": 1,
-            "selectedLayer": 2,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 266.5,
-                "y": 407
+                "x": 625.5,
+                "y": 406
             }
         },
         "conf3.json#Ball-01": {
@@ -1113,12 +1113,13 @@
             "scale": 0.75,
             "selectedLayer": 23,
             "viewCenter": {
-                "x": 687.3333333333333,
-                "y": 373.33333333333337
+                "x": 685.9999999999999,
+                "y": 372
             }
         },
         "island2.json#Aloa-Blumen": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "island2.json#Aloha Bar_1": {
             "scaleInDock": 1
@@ -1296,8 +1297,8 @@
             "scale": 0.75,
             "selectedLayer": 7,
             "viewCenter": {
-                "x": 625.9999999999999,
-                "y": 492
+                "x": 624.6666666666667,
+                "y": 490.6666666666666
             }
         },
         "island3.json#Grasbüschel_64": {
@@ -1377,7 +1378,8 @@
             "scaleInDock": 1
         },
         "island3.json#tf_beach_tileB": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "island3.json#wegweise_neu": {
             "dynamicWrapping": true,
