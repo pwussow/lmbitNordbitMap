@@ -160,9 +160,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openPopupEvent.message",
+                 "name":"zone",
                  "type":"string",
-                 "value":"Suprise "
+                 "value":"Flaschenpost"
                 }],
          "type":"tilelayer",
          "visible":true,
